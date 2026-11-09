@@ -51,7 +51,7 @@ from src.dashboard.views.movements import render_movements_view
 # ==============================================================================
 def render_admin_omnicanal_tab(usuario_actual):
     """Renderiza la pestaña de control de precios exclusiva para el Admin."""
-    if usuario_actual not in ["admin", "acroscarlos"]:
+    if usuario_actual not in ["admin", "acroscarlos", "siul2897"]:
         st.error("⛔ Acceso denegado. No tienes permisos de Administrador Omnicanal.")
         st.image("https://http.cat/403", width=400)
         ui_logger.warning(f"Intento de acceso denegado a la pestaña Admin por el usuario: {usuario_actual}")
