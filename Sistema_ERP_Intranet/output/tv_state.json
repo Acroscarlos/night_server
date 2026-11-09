@@ -1,0 +1,212 @@
+{
+    "timestamp": "2026-10-27 12:40:03 PM",
+    "dolar": {
+        "oficial": 887.302,
+        "paralelo": 1000.656,
+        "tasa_cambio_pct": 112.78,
+        "ratio_actual": 119.0,
+        "diferencia": 6.22
+    },
+    "servidores": {
+        "srv_principal": "ONLINE 🟢",
+        "srv_rvtech": "ONLINE 🟢"
+    },
+    "jobs_time": {
+        "motor_rapido": "2026-10-27 12:30 PM",
+        "motor_nocturno": "2026-10-27 02:03 AM",
+        "woo_precios": "2026-10-16 03:12 PM",
+        "cashea_precios": "2026-10-01 02:25 PM"
+    },
+    "top_ventas": [
+        {
+            "sku": "10007",
+            "item_name": "UNI-T UT204+ Pinza Amperímetrica",
+            "quantity": 66
+        },
+        {
+            "sku": "10030",
+            "item_name": "UNI-T UT202A+ Pinza Amperímetrica",
+            "quantity": 61
+        },
+        {
+            "sku": "10301",
+            "item_name": "JCD CNR01 Caimanes 01 Par (Rojo y negro)",
+            "quantity": 48
+        },
+        {
+            "sku": "10089",
+            "item_name": "JCD APC Conectores de fibra",
+            "quantity": 46
+        },
+        {
+            "sku": "10123",
+            "item_name": "UNI-T UT-L21 Puntas de prueba de 20A",
+            "quantity": 36
+        }
+    ],
+    "criticos_marcas": {
+        "UNI-T": [
+            {
+                "sku": "10118",
+                "nombre": "UNI-T UT363 Anemometro Medidor de viento y temperatura"
+            },
+            {
+                "sku": "10147",
+                "nombre": "UNI-T UT345A Medidor de espesor"
+            },
+            {
+                "sku": "10095",
+                "nombre": "UNI-T UT273+ Telurometro tipo pinza"
+            },
+            {
+                "sku": "10322",
+                "nombre": "UNI-T UT363BT Anemómetro Bluetooth"
+            },
+            {
+                "sku": "10222",
+                "nombre": "UNI-T UT202BT Pinza Amperimetica BT"
+            }
+        ],
+        "HIKMICRO": [
+            {
+                "sku": "10014",
+                "nombre": "HIKMICRO MiniE Modulo termico IOS/Android"
+            },
+            {
+                "sku": "10356",
+                "nombre": "HIKMICRO M11W Camara Termografica Profesional"
+            },
+            {
+                "sku": "10359",
+                "nombre": "HIKMICRO AI56 Camara Acustica 64 Sensores"
+            },
+            {
+                "sku": "10139",
+                "nombre": "HIKMICRO D01 Camara Termica"
+            },
+            {
+                "sku": "10183",
+                "nombre": "HIKMICRO AD22P I/O Detector Acustico para Fugas de Agua"
+            }
+        ],
+        "RV": [
+            {
+                "sku": "10323",
+                "nombre": "Servicio CT01 Curso de Termografia"
+            },
+            {
+                "sku": "10031",
+                "nombre": "RV ED02 Estuche rigido doble Multimetro - Pinza"
+            },
+            {
+                "sku": "10309",
+                "nombre": "RV RV33T TTR Medidor de Relación de Transformación"
+            },
+            {
+                "sku": "10367",
+                "nombre": "RV BDV80KV RESISTENCIA DE ACEITE DIELECTRICO CHISPOMETRO"
+            },
+            {
+                "sku": "10142",
+                "nombre": "RV M20KV Megohemtro Profesional de 20kV"
+            }
+        ],
+        "JCD": [
+            {
+                "sku": "10090",
+                "nombre": "JCD UPC Conectores de fibra"
+            },
+            {
+                "sku": "10191",
+                "nombre": "JCD M01 Malla desoldadora 2mm 1.5mts"
+            },
+            {
+                "sku": "10013",
+                "nombre": "JCD 8898 Estacion de calor 2 en 1"
+            },
+            {
+                "sku": "10126",
+                "nombre": "JCD YQK400C Prensa Terminal 400mm2"
+            },
+            {
+                "sku": "10406",
+                "nombre": "JCD EP01 Estuche Rígido Pinza"
+            }
+        ],
+        "ZIBOO": [
+            {
+                "sku": "10084",
+                "nombre": "ZIBOO C35 Bolso de Multimetro Pequeño"
+            },
+            {
+                "sku": "10015",
+                "nombre": "ZIBOO EP04 Forro estuche pinza amperimetrica"
+            },
+            {
+                "sku": "10083",
+                "nombre": "ZIBOO C25 Bolso de Multimetro Grande"
+            }
+        ]
+    },
+    "top_vendedores_reales": {
+        "mes_actual": {
+            "periodo": "2026-10",
+            "deja_pa_los_demas": [
+                {
+                    "nombre": "Johanny Ramos",
+                    "id_foto": "johanny_ramos",
+                    "valor": 37
+                }
+            ],
+            "pez_gordo": [
+                {
+                    "nombre": "Amanda Noriega",
+                    "id_foto": "amanda_noriega",
+                    "valor": 13129.0
+                }
+            ]
+        },
+        "historial": [
+            {
+                "Mes": "2026-09",
+                "🏃 Deja pa' los demás": "Amanda Noriega (47 vnts)",
+                "🦈 Pez Gordo": "Nicolas Hernandez ($27180.00)"
+            },
+            {
+                "Mes": "2026-08",
+                "🏃 Deja pa' los demás": "Amanda Noriega (73 vnts)",
+                "🦈 Pez Gordo": "Antonio Carreño ($19444.44)"
+            },
+            {
+                "Mes": "2026-07",
+                "🏃 Deja pa' los demás": "Amanda Noriega (71 vnts)",
+                "🦈 Pez Gordo": "Amanda Noriega ($28615.00)"
+            },
+            {
+                "Mes": "2026-06",
+                "🏃 Deja pa' los demás": "Amanda Noriega (38 vnts)",
+                "🦈 Pez Gordo": "Amanda Noriega ($19659.00)"
+            },
+            {
+                "Mes": "2026-05",
+                "🏃 Deja pa' los demás": "Amanda Noriega (38 vnts)",
+                "🦈 Pez Gordo": "Angel Villarroel ($15930.57)"
+            },
+            {
+                "Mes": "2026-04",
+                "🏃 Deja pa' los demás": "Amanda Noriega, José Carreño (16 vnts)",
+                "🦈 Pez Gordo": "José Carreño ($14073.80)"
+            },
+            {
+                "Mes": "2026-03",
+                "🏃 Deja pa' los demás": "Amanda Noriega (10 vnts)",
+                "🦈 Pez Gordo": "Carlos Carreno ($43568.12)"
+            },
+            {
+                "Mes": "2026-02",
+                "🏃 Deja pa' los demás": "Antonio Carreño (4 vnts)",
+                "🦈 Pez Gordo": "Antonio Carreño ($29366.00)"
+            }
+        ]
+    }
+}

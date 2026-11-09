@@ -1,0 +1,965 @@
+﻿"ID Orden","Recibo Loyverse",Vendedor,"Monto Base",Comisión,Estado,"Auditoría POS","Fecha Operación"
+#2307,#00443455,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,"Pendiente API",27/10/2026
+#2305,#00551437,"Johanny Ramos",$140.00,+$2.10,PENDIENTE,"Pendiente API",26/10/2026
+#2279,#00551436,"Amanda Noriega",$267.00,+$4.01,PENDIENTE,"Pendiente API",26/10/2026
+#2306,#00443454,"Josely M. Torres",$194.00,+$2.91,PENDIENTE,Verificado,26/10/2026
+#2300,#00443425,"Josely M. Torres",$64.00,+$0.96,PENDIENTE,Verificado,26/10/2026
+#2283,#00551406,"Johanny Ramos",$134.00,+$2.01,PENDIENTE,Verificado,22/10/2026
+#2281,#00551396,"Amanda Noriega",$481.00,+$7.22,PENDIENTE,Verificado,22/10/2026
+#2280,#00551411,"Amanda Noriega",$25.00,+$0.38,PENDIENTE,Verificado,22/10/2026
+#2262,#00443441,"Johanny Ramos",$456.00,+$6.84,PENDIENTE,Verificado,22/10/2026
+#2277,#00551410,"Nicolas Hernandez",$79.00,+$1.19,PENDIENTE,Verificado,22/10/2026
+#2253,#00551408,"Amanda Noriega",$547.00,+$8.21,PENDIENTE,Verificado,22/10/2026
+#2256,#00443438,"Johanny Ramos",$108.00,+$1.62,PENDIENTE,Verificado,22/10/2026
+#2261,#00443440,"Amanda Noriega",$650.00,+$9.75,PENDIENTE,Verificado,22/10/2026
+#2266,#00551402,"Amanda Noriega",$968.00,+$14.52,PENDIENTE,Verificado,22/10/2026
+#2276,#00551399,"Johanny Ramos",$337.00,+$5.06,PENDIENTE,Verificado,22/10/2026
+#2275,#00443437,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,Verificado,22/10/2026
+#2254,#00551398,"Johanny Ramos",$24.00,+$0.36,PENDIENTE,Verificado,21/10/2026
+#2257,#00443439,"Johanny Ramos",$30.00,+$0.45,PENDIENTE,Verificado,21/10/2026
+#2271,#00551393,"Amanda Noriega",$174.00,+$2.61,PENDIENTE,Verificado,21/10/2026
+#2270,#00451439,"Amanda Noriega",$989.00,+$14.83,PENDIENTE,Verificado,21/10/2026
+#2269,#00443432,"Amanda Noriega",$20.00,+$0.30,PENDIENTE,Verificado,21/10/2026
+#2267,#00443418,"Amanda Noriega","$1,012.00",+$15.18,PENDIENTE,Verificado,21/10/2026
+#2264,#00551394,"Amanda Noriega",$54.00,+$0.81,PENDIENTE,Verificado,21/10/2026
+#2265,#00443434,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,Verificado,21/10/2026
+#2259,#00551386,"Johanny Ramos",$32.00,+$0.48,PENDIENTE,Verificado,21/10/2026
+#2258,#00443423,"Johanny Ramos",$301.00,+$4.52,PENDIENTE,Verificado,21/10/2026
+#2252,#00551374,"Johanny Ramos",$103.00,+$1.55,PENDIENTE,Verificado,21/10/2026
+#2198,#00443405,"Josely M. Torres",$413.00,+$6.19,PENDIENTE,Verificado,19/10/2026
+#2221,#00443424,"Johanny Ramos","$1,482.00",+$22.23,PENDIENTE,Verificado,19/10/2026
+#2214,#00551372,"Amanda Noriega",$181.00,+$2.72,PENDIENTE,Verificado,19/10/2026
+#2222,#00551373,"Johanny Ramos",$274.00,+$4.11,PENDIENTE,Verificado,19/10/2026
+#2213,#00421286,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,Verificado,17/10/2026
+#2210,#00551355,"Johanny Ramos",$47.00,+$0.71,PENDIENTE,Verificado,17/10/2026
+#2197,#00551346,"Amanda Noriega",$54.00,+$0.81,PENDIENTE,Verificado,17/10/2026
+#2191,#00551354,"Amanda Noriega",$580.00,+$8.70,PENDIENTE,Verificado,17/10/2026
+#2207,#00443411,"Carlos Carreno",$19.40,+$0.29,PENDIENTE,Verificado,17/10/2026
+#2204,#00421283,"Nicolas Hernandez",$222.00,+$3.33,PENDIENTE,Verificado,16/10/2026
+#2201,#00551305,"Nicolas Hernandez",$344.00,+$5.16,PENDIENTE,Verificado,16/10/2026
+#2193,#00501206,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,Verificado,16/10/2026
+#2178,#00551348,"Amanda Noriega",$35.00,+$0.53,PENDIENTE,Verificado,15/10/2026
+#2185,#00451427,"Johanny Ramos",$416.00,+$6.24,PENDIENTE,Verificado,15/10/2026
+#2180,#00443394,"Carlos Carreno",$314.08,+$4.71,PENDIENTE,Incongruencia,15/10/2026
+#2172,#00551337,"Johanny Ramos",$10.00,+$0.15,PENDIENTE,Verificado,14/10/2026
+#2169,#00421271,"Johanny Ramos",$375.00,+$5.63,PENDIENTE,Verificado,13/10/2026
+#2171,#00421273,"Johanny Ramos",$70.00,+$1.05,PENDIENTE,Verificado,13/10/2026
+#2175,#00551336,"Johanny Ramos",$669.00,+$10.04,PENDIENTE,Verificado,13/10/2026
+#2177,#00551333,"Amanda Noriega",$122.00,+$1.83,PENDIENTE,Verificado,13/10/2026
+#2179,#00421274,"Johanny Ramos",$26.00,+$0.39,PENDIENTE,Verificado,13/10/2026
+#2170,#09283773,"Carlos Carreno",$168.00,+$2.52,PENDIENTE,Incongruencia,12/10/2026
+#2166,#12243434,"Carlos Carreno",$1.04,+$0.02,PENDIENTE,Incongruencia,11/10/2026
+#2165,#01245646,"Carlos Carreno",$1.04,+$0.02,PENDIENTE,Incongruencia,11/10/2026
+#2072,#00421236,"Josely M. Torres",$160.00,+$2.40,PENDIENTE,Verificado,10/10/2026
+#2115,#00551280,"Amanda Noriega",$512.00,+$7.68,PENDIENTE,Verificado,10/10/2026
+#2117,#00551281,"Amanda Noriega",$306.00,+$4.59,PENDIENTE,Verificado,10/10/2026
+#2161,#00551323,"Johanny Ramos",$32.00,+$0.48,PENDIENTE,Verificado,10/10/2026
+#2162,#00551329,"Johanny Ramos",$54.00,+$0.81,PENDIENTE,Verificado,10/10/2026
+#2159,#00006786,"Carlos Carreno",$1.00,+$0.02,PENDIENTE,Incongruencia,10/10/2026
+#2164,#00123459,"Carlos Carreno",$1.04,+$0.02,PENDIENTE,Incongruencia,10/10/2026
+#2163,#00551331,"Amanda Noriega",$320.00,+$4.80,PENDIENTE,Verificado,10/10/2026
+#2113,#00551322,"Amanda Noriega","$1,168.00",+$17.52,PENDIENTE,Verificado,10/10/2026
+#2142,#00551328,"Amanda Noriega",$88.00,+$1.32,PENDIENTE,Verificado,10/10/2026
+#2156,#00443385,"Johanny Ramos",$59.93,+$0.90,PENDIENTE,Verificado,09/10/2026
+#2158,#00551314,"Johanny Ramos",$24.00,+$0.36,PENDIENTE,Verificado,09/10/2026
+#2157,#00551313,"Johanny Ramos",$101.00,+$1.52,PENDIENTE,Verificado,09/10/2026
+#2109,#00551312,"Amanda Noriega",$151.00,+$2.27,PENDIENTE,Verificado,08/10/2026
+#2134,#00551306,"Amanda Noriega",$162.00,+$2.43,PENDIENTE,Verificado,08/10/2026
+#2119,#00451422,"Amanda Noriega","$1,579.00",+$23.69,PENDIENTE,Verificado,08/10/2026
+#2148,#00551307,"Amanda Noriega","$1,128.00",+$16.92,PENDIENTE,Incongruencia,08/10/2026
+#2123,#00443377,"Johanny Ramos",$208.00,+$3.12,PENDIENTE,Verificado,07/10/2026
+#2137,#00551302,"Johanny Ramos",$907.00,+$13.60,PENDIENTE,Verificado,07/10/2026
+#2144,#00551303,"Amanda Noriega",$269.00,+$4.04,PENDIENTE,Verificado,07/10/2026
+#2145,#00551296,"Amanda Noriega",$306.00,+$4.59,PENDIENTE,Verificado,07/10/2026
+#2138,#00443368,"Johanny Ramos",$79.00,+$1.19,PENDIENTE,Verificado,06/10/2026
+#2143,#00443372,"Johanny Ramos",$278.00,+$4.17,PENDIENTE,Verificado,06/10/2026
+#2125,#00443370,"Amanda Noriega",$108.00,+$1.62,PENDIENTE,Verificado,06/10/2026
+#2129,#00421248,"Johanny Ramos",$186.00,+$2.79,PENDIENTE,Verificado,06/10/2026
+#2127,#01595215,"Antonio Carreño",$42.00,+$0.63,PENDIENTE,Incongruencia,05/10/2026
+#2116,#00551279,"Amanda Noriega",$504.00,+$7.56,PENDIENTE,Verificado,03/10/2026
+#2114,#00001295,"Antonio Carreño",$42.00,+$0.63,PENDIENTE,Incongruencia,03/10/2026
+#2112,#00443364,"Amanda Noriega",$86.00,+$1.29,PENDIENTE,Verificado,03/10/2026
+#2095,#00551262,"Amanda Noriega",$194.00,+$2.91,PENDIENTE,Verificado,02/10/2026
+#2098,#00551260,"Nicolas Hernandez","$1,308.00",+$19.62,PENDIENTE,Verificado,02/10/2026
+#2106,#00551269,"Amanda Noriega",$53.00,+$0.79,PENDIENTE,Verificado,02/10/2026
+#2102,#00431928,"Johanny Ramos",$11.00,+$0.16,PENDIENTE,Verificado,02/10/2026
+#2101,#00551240,"Johanny Ramos","$2,000.00",+$30.00,PENDIENTE,Verificado,02/10/2026
+#2099,#00443359,"Amanda Noriega",$36.00,+$0.54,PENDIENTE,Verificado,02/10/2026
+#2088,#00551244,"Josely M. Torres",$68.00,+$1.02,PENDIENTE,Verificado,01/10/2026
+#2090,#00551251,"Johanny Ramos",$54.00,+$0.81,PENDIENTE,Verificado,01/10/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,30/09/2026
+Premio/Bono/Abono,N/A,"Nicolas Hernandez",$0.00,+$20.00,PAGADO,N/A,30/09/2026
+Premio/Bono/Abono,N/A,"Johanny Ramos",$0.00,+$20.00,PAGADO,N/A,30/09/2026
+#2084,#00551247,"Antonio Carreño",$110.00,+$1.65,PAGADO,Verificado,30/09/2026
+#2068,#00551239,"Johanny Ramos",$368.00,+$5.52,PAGADO,Verificado,30/09/2026
+#2089,#00431927,"Josely M. Torres",$79.00,+$1.19,PAGADO,Verificado,30/09/2026
+#2078,#00044358,"Josely M. Torres",$96.00,+$1.44,PAGADO,Verificado,30/09/2026
+#2080,#00443357,"Amanda Noriega",$42.00,+$0.63,PAGADO,Verificado,29/09/2026
+#2073,#00431924,"Josely M. Torres",$32.00,+$0.48,PAGADO,Verificado,29/09/2026
+#2049,#000001532,"Carlos Carreno",$98.00,+$1.47,PAGADO,Verificado,29/09/2026
+#2057,#00551232,"Amanda Noriega",$217.00,+$3.26,PAGADO,Verificado,29/09/2026
+#2042,#00551216,"Amanda Noriega",$152.00,+$2.28,PAGADO,Verificado,29/09/2026
+#2022,#00551218,"Johanny Ramos",$380.00,+$5.70,PAGADO,Verificado,29/09/2026
+#2065,#00551223,"Amanda Noriega",$272.00,+$4.08,PAGADO,Verificado,29/09/2026
+#2048,#00551214,"Amanda Noriega",$72.00,+$1.08,PAGADO,Verificado,28/09/2026
+#2056,#00451413,"Nicolas Hernandez","$3,962.00",+$59.43,PAGADO,Verificado,28/09/2026
+#2059,#00551222,"Johanny Ramos",$163.00,+$2.45,PAGADO,Verificado,28/09/2026
+#2050,#00431920,"Amanda Noriega",$395.00,+$5.93,PAGADO,Verificado,28/09/2026
+#2026,#00551206,"Amanda Noriega",$154.00,+$2.31,PAGADO,Verificado,26/09/2026
+#2029,#00551204,"Amanda Noriega",$56.00,+$0.84,PAGADO,Verificado,26/09/2026
+#2047,#00443343,"Johanny Ramos",$113.00,+$1.69,PAGADO,Verificado,25/09/2026
+#2043,#00551208,"Josely M. Torres",$844.00,+$12.66,PAGADO,Verificado,25/09/2026
+#2039,#00431915,"Amanda Noriega",$160.00,+$2.40,PAGADO,Verificado,25/09/2026
+#2016,#00551195,"Carlos Carreno",$368.00,+$5.52,PAGADO,Verificado,25/09/2026
+#2033,#00551201,"Amanda Noriega",$41.00,+$0.62,PAGADO,Verificado,25/09/2026
+#2024,#00431913,"Josely M. Torres",$344.00,+$5.16,PAGADO,Verificado,24/09/2026
+#2014,#00551196,"Amanda Noriega",$130.00,+$1.95,PAGADO,Verificado,24/09/2026
+#2019,#00443334,"Amanda Noriega",$42.00,+$0.63,PAGADO,Verificado,23/09/2026
+#2018,#00551191,"Amanda Noriega",$122.00,+$1.83,PAGADO,Verificado,23/09/2026
+#1945,#00551175,"Amanda Noriega",$75.00,+$1.13,PAGADO,Verificado,23/09/2026
+#1981,#00551172,"Johanny Ramos",$278.00,+$4.17,PAGADO,Verificado,23/09/2026
+#2015,#00551185,"Johanny Ramos",$620.00,+$9.30,PAGADO,Verificado,23/09/2026
+#1985,#00443327,"Johanny Ramos",$37.00,+$0.55,PAGADO,Verificado,22/09/2026
+#1992,#00443318,"Amanda Noriega",$880.00,+$13.20,PAGADO,Verificado,22/09/2026
+#1982,#00551170,"Johanny Ramos",$32.00,+$0.48,PAGADO,Verificado,22/09/2026
+#1993,#00421228,"Josely M. Torres",$156.00,+$2.34,PAGADO,Verificado,22/09/2026
+#1989,#00551163,"Josely M. Torres",$160.00,+$2.40,PAGADO,Verificado,22/09/2026
+#1914,#00443314,"Amanda Noriega",$41.00,+$0.62,PAGADO,Verificado,21/09/2026
+#1980,#00443321,"Amanda Noriega",$200.00,+$3.00,PAGADO,Verificado,21/09/2026
+#1977,#00421229,"Josely M. Torres",$95.00,+$1.43,PAGADO,Verificado,21/09/2026
+#1969,#00000135,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1968,#00000134,"Carlos Carreno",$5.00,+$0.08,PAGADO,Verificado,20/09/2026
+#1972,#00000133,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1971,#00000132,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1966,#00000131,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1967,#00000130,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1965,#00000129,"Carlos Carreno",$2.00,+$0.03,PAGADO,Verificado,20/09/2026
+#1964,#00000128,"Carlos Carreno",$7.00,+$0.11,PAGADO,Verificado,20/09/2026
+#1963,#00000126,"Carlos Carreno",$2.00,+$0.03,PAGADO,Verificado,20/09/2026
+#1962,#00000125,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1961,#00000124,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,20/09/2026
+#1970,#00551150,"Josely M. Torres",$339.00,+$5.09,PAGADO,Verificado,19/09/2026
+#1958,#00551133,"Johanny Ramos",$45.00,+$0.67,PAGADO,Verificado,19/09/2026
+#1953,#00431902,"Josely M. Torres",$32.00,+$0.48,PAGADO,Verificado,19/09/2026
+#1943,#00551134,"Josely M. Torres","$1,841.00",+$27.62,PAGADO,Verificado,18/09/2026
+#1950,#00551135,"Carlos Carreno",$380.00,+$5.70,PAGADO,Verificado,18/09/2026
+#1957,#00551136,"Johanny Ramos",$87.00,+$1.31,PAGADO,Verificado,18/09/2026
+#1938,#00443307,"Amanda Noriega",$90.00,+$1.35,PAGADO,Verificado,18/09/2026
+#1907,#00551126,"Josely M. Torres","$1,355.00",+$20.33,PAGADO,Verificado,18/09/2026
+#1952,#00551129,"Johanny Ramos",$127.00,+$1.91,PAGADO,Verificado,18/09/2026
+#1946,#00443305,"Amanda Noriega",$620.00,+$9.30,PAGADO,Verificado,17/09/2026
+#1941,#00551125,"Josely M. Torres",$144.00,+$2.16,PAGADO,Verificado,17/09/2026
+#1939,#00551116,"Amanda Noriega",$355.00,+$5.33,PAGADO,Verificado,17/09/2026
+#1930,#00551115,"Nicolas Hernandez",$507.00,+$7.60,PAGADO,Verificado,16/09/2026
+#1931,#00012345,"Antonio Carreño",$323.00,+$4.85,PAGADO,Verificado,16/09/2026
+#1933,#00451397,"Antonio Carreño",$8.00,+$0.12,PAGADO,Verificado,16/09/2026
+#1932,#00421226,"Antonio Carreño","$1,129.00",+$16.94,PAGADO,Verificado,16/09/2026
+#1908,#00443295,"Johanny Ramos",$171.00,+$2.57,PAGADO,Verificado,15/09/2026
+#1900,#00443282,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,15/09/2026
+#1898,#00443284,"Amanda Noriega",$320.00,+$4.80,PAGADO,Verificado,15/09/2026
+#1891,#00551088,"Johanny Ramos",$278.00,+$4.17,PAGADO,Verificado,15/09/2026
+#1915,#00443288,"Johanny Ramos",$65.00,+$0.98,PAGADO,Verificado,15/09/2026
+#1912,#00551106,"Josely M. Torres",$160.00,+$2.40,PAGADO,Verificado,15/09/2026
+#1906,#00551105,"Nicolas Hernandez","$8,697.00",+$130.45,PAGADO,Verificado,15/09/2026
+#1910,#00431890,"Josely M. Torres",$168.00,+$2.52,PAGADO,Verificado,15/09/2026
+#1902,#00551100,"Nicolas Hernandez","$9,052.00",+$135.78,PAGADO,Verificado,14/09/2026
+#1886,#00551086,"Johanny Ramos",$156.00,+$2.34,PAGADO,Verificado,14/09/2026
+#1868,#00551070,"Amanda Noriega",$68.00,+$1.02,PAGADO,Verificado,14/09/2026
+#1890,#00551082,"Johanny Ramos",$278.00,+$4.17,PAGADO,Verificado,12/09/2026
+#1889,#00431888,"Johanny Ramos",$234.00,+$3.51,PAGADO,Verificado,12/09/2026
+#1888,#00431887,"Amanda Noriega",$106.00,+$1.59,PAGADO,Verificado,12/09/2026
+#1885,#00551076,"Amanda Noriega",$116.00,+$1.74,PAGADO,Verificado,11/09/2026
+#1867,#00451395,"Amanda Noriega","$5,293.00",+$79.40,PAGADO,Verificado,11/09/2026
+#1882,#00551054,"Johanny Ramos",$35.00,+$0.53,PAGADO,Verificado,11/09/2026
+#1881,#00551067,"Josely M. Torres",$55.00,+$0.83,PAGADO,Verificado,11/09/2026
+#1855,#00551015,"Johanny Ramos",$303.40,+$4.55,PAGADO,Verificado,11/09/2026
+#1877,#00551071,"Amanda Noriega",$425.00,+$6.38,PAGADO,Verificado,11/09/2026
+#1873,#00431879,"Johanny Ramos",$103.00,+$1.55,PAGADO,Verificado,10/09/2026
+#1851,#00551048,"Johanny Ramos",$206.00,+$3.09,PAGADO,Verificado,09/09/2026
+#1830,#00551032,"Johanny Ramos",$172.00,+$2.58,PAGADO,Verificado,09/09/2026
+#1808,#00551004,"Josely M. Torres","$1,860.00",+$27.90,PAGADO,Verificado,09/09/2026
+#1841,#00443266,"Amanda Noriega",$55.00,+$0.83,PAGADO,Verificado,09/09/2026
+#1850,#00443267,"Amanda Noriega",$195.00,+$2.93,PAGADO,Verificado,09/09/2026
+#1840,#00551036,"Amanda Noriega",$35.00,+$0.53,PAGADO,Verificado,09/09/2026
+#1857,#00443264,"Amanda Noriega",$318.00,+$4.77,PAGADO,Verificado,09/09/2026
+#1863,#00443261,"Johanny Ramos",$392.00,+$5.88,PAGADO,Verificado,09/09/2026
+#1862,#00551051,"Amanda Noriega",$206.00,+$3.09,PAGADO,Verificado,09/09/2026
+#1859,#00551045,"Johanny Ramos",$545.00,+$8.18,PAGADO,Verificado,09/09/2026
+#1858,#00431877,"Josely M. Torres",$390.80,+$5.86,PAGADO,Verificado,09/09/2026
+#1853,#00431876,"Josely M. Torres",$269.00,+$4.04,PAGADO,Verificado,09/09/2026
+#1852,#00551039,"Josely M. Torres",$47.00,+$0.71,PAGADO,Verificado,09/09/2026
+#1845,#00443248,"Johanny Ramos",$22.00,+$0.33,PAGADO,Verificado,09/09/2026
+#1844,#00443244,"Johanny Ramos",$84.00,+$1.26,PAGADO,Verificado,09/09/2026
+#1848,#00551010,"Antonio Carreño",$295.00,+$4.43,PAGADO,Verificado,08/09/2026
+#1847,#00551040,"Antonio Carreño","$1,500.00",+$22.50,PAGADO,Verificado,08/09/2026
+#1846,#00551041,"Antonio Carreño","$1,300.00",+$19.50,PAGADO,Verificado,08/09/2026
+#1810,#00551019,"Amanda Noriega",$175.00,+$2.63,PAGADO,Verificado,08/09/2026
+#1789,#00550989,"Amanda Noriega",$140.00,+$2.10,PAGADO,Verificado,08/09/2026
+#1834,#00421222,"Amanda Noriega",$118.00,+$1.77,PAGADO,Verificado,08/09/2026
+#1833,#00421221,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,08/09/2026
+#1827,#00443249,"Amanda Noriega",$354.00,+$5.31,PAGADO,Verificado,07/09/2026
+#1813,#00443241,"Johanny Ramos",$269.00,+$4.04,PAGADO,Verificado,07/09/2026
+#1811,#00431870,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,05/09/2026
+#1782,#00501198,"Nicolas Hernandez","$3,962.00",+$59.43,PAGADO,Verificado,04/09/2026
+#1804,#00550984,"Amanda Noriega",$273.00,+$4.10,PAGADO,Verificado,04/09/2026
+#1803,#00550980,"Amanda Noriega",$100.00,+$1.50,PAGADO,Verificado,04/09/2026
+#1791,#00443234,"Amanda Noriega",$67.00,+$1.01,PAGADO,Verificado,04/09/2026
+#1801,#00055982,"Josely M. Torres",$87.00,+$1.31,PAGADO,Verificado,04/09/2026
+#1788,#00443228,"Josely M. Torres",$302.00,+$4.53,PAGADO,Verificado,04/09/2026
+#1757,#01501192,"Amanda Noriega",$458.00,+$6.87,PAGADO,Verificado,04/09/2026
+#1797,#00501193,"Amanda Noriega",$64.00,+$0.96,PAGADO,Verificado,04/09/2026
+#1799,#00501192,"Josely M. Torres","$12,061.00",+$180.92,PAGADO,Verificado,03/09/2026
+#1793,#00443209,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,03/09/2026
+#1773,#00550965,"Antonio Carreño",$200.00,+$3.00,PAGADO,Verificado,03/09/2026
+#1750,#00443205,"Johanny Ramos",$9.00,+$0.14,PAGADO,Verificado,03/09/2026
+#1783,#00451390,"Josely M. Torres","$1,144.00",+$17.16,PAGADO,Verificado,02/09/2026
+#1764,#00550958,"Amanda Noriega","$1,813.00",+$27.20,PAGADO,Verificado,02/09/2026
+#1766,#00443203,"Josely M. Torres",$120.00,+$1.80,PAGADO,Verificado,02/09/2026
+#1745,#00550957,"Johanny Ramos",$119.99,+$1.80,PAGADO,Verificado,01/09/2026
+#1739,#00550956,"Johanny Ramos",$119.99,+$1.80,PAGADO,Verificado,01/09/2026
+#1741,#00550938,"Angel Villarroel","$1,399.00",+$20.99,PAGADO,Verificado,01/09/2026
+#1680,#01443190,"Johanny Ramos",$67.00,+$1.01,PAGADO,Verificado,01/09/2026
+#1717,#00550920,"Johanny Ramos",$234.00,+$3.51,PAGADO,Verificado,01/09/2026
+#1726,#00550932,"Amanda Noriega","$1,619.00",+$24.29,PAGADO,Verificado,01/09/2026
+#1725,#00550922,"Amanda Noriega",$71.00,+$1.07,PAGADO,Verificado,01/09/2026
+#1729,#00055947,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,01/09/2026
+#1711,#00055890,"Angel Villarroel",$32.00,+$0.48,PAGADO,Verificado,01/09/2026
+#1710,#00055889,"Angel Villarroel",$35.00,+$0.53,PAGADO,Verificado,01/09/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/08/2026
+Premio/Bono/Abono,N/A,"Antonio Carreño",$0.00,+$20.00,PAGADO,N/A,31/08/2026
+Premio/Bono/Abono,N/A,"Sorgymar Garcia",$0.00,+$20.00,PAGADO,N/A,31/08/2026
+#1722,#00550952,"Nicolas Hernandez","$1,000.00",+$15.00,PAGADO,Verificado,01/09/2026
+#1737,#00550935,"Josely M. Torres",$54.00,+$0.81,PAGADO,Verificado,31/08/2026
+#1735,#00421215,"Amanda Noriega",$55.00,+$0.83,PAGADO,Verificado,31/08/2026
+#1734,#00550911,"Johanny Ramos","$1,000.00",+$15.00,PAGADO,Verificado,31/08/2026
+#1733,#00550927,"Josely M. Torres",$67.00,+$1.01,PAGADO,Verificado,31/08/2026
+#1731,#00550923,"Josely M. Torres",$144.00,+$2.16,PAGADO,Verificado,31/08/2026
+#1727,#00550921,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,29/08/2026
+#1724,#00550918,"Josely M. Torres",$36.00,+$0.54,PAGADO,Verificado,29/08/2026
+#1720,#00550915,"Josely M. Torres",$120.00,+$1.80,PAGADO,Verificado,29/08/2026
+#1719,#00431852,"Josely M. Torres",$55.00,+$0.83,PAGADO,Verificado,29/08/2026
+#1715,#00550901,"Angel Villarroel","$1,153.00",+$17.30,PAGADO,Verificado,28/08/2026
+#1713,#00451374,"Angel Villarroel",$266.15,+$3.99,PAGADO,Verificado,28/08/2026
+#1712,#00550910,"Amanda Noriega",$637.00,+$9.56,PAGADO,Verificado,28/08/2026
+#1709,#00550898,"Angel Villarroel",$54.00,+$0.81,PAGADO,Verificado,28/08/2026
+#1664,#00550888,"Angel Villarroel",$140.00,+$2.10,PAGADO,Verificado,28/08/2026
+#1718,#00550900,"Angel Villarroel",$219.00,+$3.29,PAGADO,Verificado,28/08/2026
+#1668,#00550874,"Amanda Noriega",$260.00,+$3.90,PAGADO,Verificado,28/08/2026
+#1716,#00431847,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,28/08/2026
+#1714,#00550893,"Angel Villarroel",$650.00,+$9.75,PAGADO,Verificado,28/08/2026
+#1704,#00431846,"Amanda Noriega",$5.00,+$0.08,PAGADO,Verificado,28/08/2026
+#1696,#00443190,"Amanda Noriega",$624.00,+$9.36,PAGADO,Verificado,27/08/2026
+#1697,#00451372,"Johanny Ramos",$362.00,+$5.43,PAGADO,Verificado,27/08/2026
+#1694,#00451371,"Johanny Ramos",$56.00,+$0.84,PAGADO,Verificado,27/08/2026
+#1693,#00443189,"Johanny Ramos",$540.00,+$8.10,PAGADO,Verificado,27/08/2026
+#1695,#00443192,"Johanny Ramos",$344.00,+$5.16,PAGADO,Verificado,27/08/2026
+#1638,#00550885,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,27/08/2026
+#1705,#00550887,"Amanda Noriega",$171.00,+$2.57,PAGADO,Verificado,27/08/2026
+#1706,#00443194,"Amanda Noriega",$165.00,+$2.48,PAGADO,Verificado,27/08/2026
+#1703,#00443191,"Amanda Noriega",$344.00,+$5.16,PAGADO,Verificado,27/08/2026
+#1702,#00431844,"Amanda Noriega",$32.00,+$0.48,PAGADO,Verificado,27/08/2026
+#1700,#00443188,"Amanda Noriega",$120.00,+$1.80,PAGADO,Verificado,27/08/2026
+#1691,#00550871,"Amanda Noriega",$73.00,+$1.10,PAGADO,Verificado,27/08/2026
+#1679,#00550863,"Josely M. Torres",$120.00,+$1.80,PAGADO,Verificado,27/08/2026
+#1683,#00550868,"Amanda Noriega",$120.00,+$1.80,PAGADO,Verificado,27/08/2026
+#1684,#00550858,"Johanny Ramos",$405.00,+$6.08,PAGADO,Verificado,27/08/2026
+#1685,#00431837,"Johanny Ramos",$115.00,+$1.73,PAGADO,Verificado,27/08/2026
+#1673,#01443186,"Johanny Ramos",$9.00,+$0.14,PAGADO,Verificado,26/08/2026
+#1662,#00443186,"Johanny Ramos",$79.00,+$1.19,PAGADO,Verificado,26/08/2026
+#1666,#00501186,"Amanda Noriega",$32.00,+$0.48,PAGADO,Verificado,26/08/2026
+#1661,#00443187,"Amanda Noriega",$172.00,+$2.58,PAGADO,Verificado,26/08/2026
+#1678,#00550862,"Amanda Noriega",$256.00,+$3.84,PAGADO,Verificado,26/08/2026
+#1676,#00550859,"Josely M. Torres",$84.00,+$1.26,PAGADO,Verificado,26/08/2026
+Premio/Bono/Abono,N/A,"Johanny Ramos",$0.00,$-200.00,PAGADO,N/A,26/08/2026
+#1672,#00451347,"Johanny Ramos",$119.99,+$1.80,PAGADO,Verificado,26/08/2026
+#1656,#00550838,"Carlos Carreno",$156.00,+$2.34,PAGADO,Verificado,25/08/2026
+#1643,#00443185,"Johanny Ramos",$119.99,+$1.80,PAGADO,Verificado,25/08/2026
+#1626,#00451365,"Josely M. Torres","$1,747.00",+$26.21,PAGADO,Verificado,25/08/2026
+#1667,#00550851,"Amanda Noriega",$47.00,+$0.71,PAGADO,Verificado,25/08/2026
+#1665,#00550840,"Johanny Ramos",$278.00,+$4.17,PAGADO,Verificado,25/08/2026
+#1651,#00431832,"Amanda Noriega",$172.00,+$2.58,PAGADO,Verificado,25/08/2026
+#1654,#00443183,"Josely M. Torres",$405.00,+$6.08,PAGADO,Verificado,25/08/2026
+#1627,#00451362,"Angel Villarroel",$165.10,+$2.48,PAGADO,Verificado,24/08/2026
+#1620,#00550833,"Amanda Noriega",$156.00,+$2.34,PAGADO,Verificado,24/08/2026
+#1631,#00451357,"Amanda Noriega",$171.00,+$2.57,PAGADO,Verificado,24/08/2026
+#1653,#00421209,"Josely M. Torres",$100.00,+$1.50,PAGADO,Verificado,24/08/2026
+#1652,#00431829,"Josely M. Torres",$119.99,+$1.80,PAGADO,Verificado,24/08/2026
+#1640,#00443180,"Johanny Ramos",$100.00,+$1.50,PAGADO,Verificado,24/08/2026
+#1529,#01550748,"Angel Villarroel",$70.00,+$1.05,PAGADO,Verificado,24/08/2026
+#1650,#00451350,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,24/08/2026
+#1649,#00421206,"Amanda Noriega",$100.00,+$1.50,PAGADO,Verificado,24/08/2026
+#1630,#00451343,"Angel Villarroel",$778.50,+$11.68,PAGADO,Verificado,24/08/2026
+#1645,#00550835,"Amanda Noriega",$119.99,+$1.80,PAGADO,Verificado,24/08/2026
+#1644,#00550834,"Amanda Noriega",$188.00,+$2.82,PAGADO,Verificado,24/08/2026
+#1641,#00550828,"Johanny Ramos",$79.00,+$1.19,PAGADO,Verificado,24/08/2026
+#1635,#00431830,"Josely M. Torres",$32.00,+$0.48,PAGADO,Verificado,24/08/2026
+#1621,#00550829,"Amanda Noriega",$96.00,+$1.44,PAGADO,Verificado,22/08/2026
+#1623,#00550809,"Amanda Noriega",$165.10,+$2.48,PAGADO,Verificado,21/08/2026
+#1614,#00431821,"Amanda Noriega",$22.00,+$0.33,PAGADO,Verificado,21/08/2026
+#1524,#04513321,"Angel Villarroel",$124.00,+$1.86,PAGADO,Verificado,21/08/2026
+#1612,#00550817,"Amanda Noriega",$73.00,+$1.10,PAGADO,Verificado,21/08/2026
+#1610,#00550748,"Johanny Ramos",$111.00,+$1.67,PAGADO,Verificado,20/08/2026
+#1523,#00451332,"Angel Villarroel",$32.00,+$0.48,PAGADO,Verificado,20/08/2026
+#1613,#00550806,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,20/08/2026
+#1576,#00550807,"Amanda Noriega",$652.00,+$9.78,PAGADO,Verificado,20/08/2026
+#1616,#00550811,"Josely M. Torres",$404.00,+$6.06,PAGADO,Verificado,20/08/2026
+#1615,#00431819,"Josely M. Torres",$66.00,+$0.99,PAGADO,Verificado,20/08/2026
+#1526,#00451331,"Nicolas Hernandez","$2,131.00",+$31.97,PAGADO,Verificado,20/08/2026
+#1602,#00431816,"Johanny Ramos",$208.00,+$3.12,PAGADO,Verificado,20/08/2026
+#1530,#00431809,"Angel Villarroel",$269.00,+$4.04,PAGADO,Verificado,20/08/2026
+#1553,#00443156,"Amanda Noriega",$160.00,+$2.40,PAGADO,Verificado,20/08/2026
+#1521,#00550767,"Johanny Ramos",$131.00,+$1.97,PAGADO,Verificado,20/08/2026
+#1591,#00443165,"Amanda Noriega","$1,747.00",+$26.21,PAGADO,Verificado,20/08/2026
+#1575,#00443153,"Amanda Noriega",$677.00,+$10.16,PAGADO,Verificado,20/08/2026
+#1570,#00443150,"Johanny Ramos",$853.00,+$12.80,PAGADO,Verificado,20/08/2026
+#1574,#00443159,"Amanda Noriega",$780.00,+$11.70,PAGADO,Verificado,20/08/2026
+#1603,#00431815,"Johanny Ramos",$175.00,+$2.63,PAGADO,Verificado,20/08/2026
+#1509,#00431804,"Josely M. Torres",$688.00,+$10.32,PAGADO,Verificado,19/08/2026
+#1579,#00501183,"Amanda Noriega",$122.00,+$1.83,PAGADO,Verificado,18/08/2026
+#1578,#00550793,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,18/08/2026
+#1542,#00550778,"Johanny Ramos",$144.00,+$2.16,PAGADO,Verificado,18/08/2026
+#1559,#00443155,"Johanny Ramos",$208.00,+$3.12,PAGADO,Verificado,18/08/2026
+#1556,#00550777,"Amanda Noriega",$172.00,+$2.58,PAGADO,Verificado,18/08/2026
+#1573,#00451338,"Angel Villarroel",$294.00,+$4.41,PAGADO,Verificado,18/08/2026
+#1552,#00421203,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,18/08/2026
+#1544,#00443151,"Johanny Ramos",$212.00,+$3.18,PAGADO,Verificado,18/08/2026
+#1527,#00550787,"Amanda Noriega",$244.00,+$3.66,PAGADO,Verificado,18/08/2026
+#1551,#00550786,"Amanda Noriega",$351.00,+$5.27,PAGADO,Verificado,18/08/2026
+#1569,#00550784,"Amanda Noriega",$320.00,+$4.80,PAGADO,Verificado,18/08/2026
+#1564,#00550772,"Josely M. Torres",$52.00,+$0.78,PAGADO,Verificado,18/08/2026
+#1554,#00421204,"Johanny Ramos",$440.00,+$6.60,PAGADO,Verificado,18/08/2026
+#1555,#00550773,"Amanda Noriega",$175.00,+$2.63,PAGADO,Verificado,17/08/2026
+#1549,#00421199,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,17/08/2026
+#1548,#00550765,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,17/08/2026
+#1537,#00550764,"Amanda Noriega",$66.00,+$0.99,PAGADO,Verificado,15/08/2026
+#1536,#00550751,"Amanda Noriega",$688.00,+$10.32,PAGADO,Verificado,15/08/2026
+#1525,#00550750,"Amanda Noriega",$32.00,+$0.48,PAGADO,Verificado,14/08/2026
+#1486,#00443129,"Amanda Noriega",$68.00,+$1.02,PAGADO,Verificado,14/08/2026
+#1487,#00443133,"Josely M. Torres",$41.00,+$0.62,PAGADO,Verificado,14/08/2026
+#1491,#00550705,"Josely M. Torres",$290.00,+$4.35,PAGADO,Verificado,14/08/2026
+#1493,#00431780,"Johanny Ramos",$350.00,+$5.25,PAGADO,Verificado,14/08/2026
+#1494,#00443124,"Johanny Ramos",$351.00,+$5.27,PAGADO,Verificado,14/08/2026
+#1495,#00443125,"Johanny Ramos",$196.00,+$2.94,PAGADO,Verificado,14/08/2026
+#1502,#00550722,"Johanny Ramos",$404.00,+$6.06,PAGADO,Verificado,14/08/2026
+#1503,#00550723,"Josely M. Torres",$66.00,+$0.99,PAGADO,Verificado,14/08/2026
+#1506,#00431799,"Josely M. Torres",$454.00,+$6.81,PAGADO,Verificado,14/08/2026
+#1507,#00431800,"Josely M. Torres",$404.00,+$6.06,PAGADO,Verificado,14/08/2026
+#1510,#00443147,"Amanda Noriega",$204.00,+$3.06,PAGADO,Verificado,14/08/2026
+#1514,#00550727,"Johanny Ramos",$351.00,+$5.27,PAGADO,Verificado,14/08/2026
+#1515,#00443141,"Johanny Ramos",$405.00,+$6.08,PAGADO,Verificado,14/08/2026
+#1519,#00550731,"Amanda Noriega",$205.00,+$3.08,ANULADO,Incongruencia,14/08/2026
+#1475,#00431789,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,13/08/2026
+#1485,#00550728,"Antonio Carreño",$336.00,+$5.04,PAGADO,Verificado,13/08/2026
+#1478,#00550718,"Johanny Ramos",$803.00,+$12.05,PAGADO,Verificado,13/08/2026
+#1473,#00443127,"Johanny Ramos",$407.00,+$6.11,PAGADO,Verificado,12/08/2026
+#1471,#00443134,"Amanda Noriega",$156.00,+$2.34,PAGADO,Verificado,12/08/2026
+#1468,#00443139,"Amanda Noriega",$87.00,+$1.31,PAGADO,Verificado,12/08/2026
+#1459,#00443136,"Amanda Noriega",$551.00,+$8.27,PAGADO,Verificado,12/08/2026
+#1352,#00055621,"Angel Villarroel",$94.00,+$1.41,PAGADO,Verificado,12/08/2026
+#1490,#00055712,"Amanda Noriega",$414.00,+$6.21,PAGADO,Verificado,12/08/2026
+#1465,#00055694,"Johanny Ramos",$208.00,+$3.12,PAGADO,Verificado,12/08/2026
+#1442,#00055668,"Johanny Ramos",$15.00,+$0.23,PAGADO,Verificado,12/08/2026
+#1414,#00055629,"Angel Villarroel",$284.10,+$4.26,PAGADO,Verificado,12/08/2026
+#1407,#00055617,"Angel Villarroel",$76.28,+$1.14,PAGADO,Verificado,12/08/2026
+#1469,#00443126,"Amanda Noriega",$254.00,+$3.81,PAGADO,Verificado,12/08/2026
+#1456,#00055683,"Amanda Noriega",$184.00,+$2.76,PAGADO,Verificado,12/08/2026
+#1454,#00550686,"Amanda Noriega",$184.00,+$2.76,PAGADO,Verificado,12/08/2026
+#1476,#00443123,"Amanda Noriega",$234.00,+$3.51,PAGADO,Verificado,11/08/2026
+#1482,#00550658,"Antonio Carreño","$1,141.44",+$17.12,PAGADO,Verificado,11/08/2026
+#1477,#00431787,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,11/08/2026
+#1466,#00550678,"Johanny Ramos",$137.00,+$2.06,PAGADO,Verificado,10/08/2026
+#1467,#00550679,"Johanny Ramos",$55.00,+$0.83,PAGADO,Verificado,10/08/2026
+#1470,#00550693,"Josely M. Torres",$70.00,+$1.05,PAGADO,Verificado,10/08/2026
+#1474,#00550680,"Amanda Noriega",$736.00,+$11.04,PAGADO,Verificado,10/08/2026
+#1433,#00550670,"Josely M. Torres","$1,102.00",+$16.53,PAGADO,Verificado,10/08/2026
+#1445,#00550671,"Amanda Noriega",$124.00,+$1.86,PAGADO,Verificado,10/08/2026
+#1452,#00550672,"Josely M. Torres",$280.00,+$4.20,PAGADO,Verificado,08/08/2026
+#1458,#00550675,"Josely M. Torres",$640.00,+$9.60,PAGADO,Verificado,08/08/2026
+#1453,#00550673,"Johanny Ramos",$217.00,+$3.26,PAGADO,Verificado,08/08/2026
+#1446,#00550661,"Amanda Noriega",$405.00,+$6.08,PAGADO,Verificado,07/08/2026
+#1409,#00550620,"Angel Villarroel",$184.00,+$2.76,PAGADO,Verificado,07/08/2026
+#1403,#00451318,"Angel Villarroel",$284.10,+$4.26,PAGADO,Verificado,07/08/2026
+#1406,#00550649,"Amanda Noriega",$194.00,+$2.91,PAGADO,Verificado,07/08/2026
+#1422,#00451323,"Angel Villarroel",$379.10,+$5.69,PAGADO,Verificado,07/08/2026
+#1429,#00451325,"Amanda Noriega",$228.00,+$3.42,PAGADO,Verificado,07/08/2026
+#1408,#00550652,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,07/08/2026
+#1400,#00550631,"Angel Villarroel",$650.00,+$9.75,PAGADO,Verificado,07/08/2026
+#1387,#00550609,"Angel Villarroel",$425.00,+$6.38,PAGADO,Verificado,07/08/2026
+#1367,#00550612,"Johanny Ramos",$252.00,+$3.78,PAGADO,Verificado,07/08/2026
+#1443,#00550662,"Johanny Ramos",$79.00,+$1.19,PAGADO,Verificado,07/08/2026
+#1441,#00501172,"Johanny Ramos",$184.00,+$2.76,PAGADO,Verificado,07/08/2026
+#1440,#00550643,"Josely M. Torres",$66.00,+$0.99,PAGADO,Verificado,07/08/2026
+#1435,#00550638,"Johanny Ramos",$64.00,+$0.96,PAGADO,Verificado,07/08/2026
+#1439,#00501171,"Josely M. Torres",$146.00,+$2.19,PAGADO,Verificado,06/08/2026
+#1423,#00550639,"Josely M. Torres",$174.00,+$2.61,PAGADO,Verificado,05/08/2026
+#1365,#00550571,"Antonio Carreño","$13,970.00",+$209.55,PAGADO,Verificado,05/08/2026
+#1421,#00550635,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,05/08/2026
+#1420,#00550626,"Amanda Noriega",$110.00,+$1.65,PAGADO,Verificado,05/08/2026
+#1413,#00443110,"Josely M. Torres",$71.00,+$1.07,PAGADO,Verificado,05/08/2026
+#1388,#00550623,"Angel Villarroel",$449.35,+$6.74,PAGADO,Verificado,05/08/2026
+#1411,#00501167,"Nicolas Hernandez",$566.00,+$8.49,PAGADO,Verificado,05/08/2026
+#1385,#00550284,"Angel Villarroel",$30.00,+$0.45,PAGADO,Verificado,05/08/2026
+#1364,#00550624,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,05/08/2026
+#1410,#00443111,"Josely M. Torres",$43.00,+$0.65,PAGADO,Verificado,04/08/2026
+#1402,#00550615,"Nicolas Hernandez","$1,080.00",+$16.20,PAGADO,Verificado,04/08/2026
+#1398,#00431769,"Amanda Noriega",$146.00,+$2.19,PAGADO,Verificado,04/08/2026
+#1395,#00443104,"Josely M. Torres",$278.00,+$4.17,PAGADO,Verificado,04/08/2026
+#1376,#00550601,"Angel Villarroel",$91.00,+$1.37,PAGADO,Verificado,04/08/2026
+#1360,#00550580,"Amanda Noriega",$171.00,+$2.57,PAGADO,Verificado,04/08/2026
+#1355,#00550579,"Amanda Noriega",$206.00,+$3.09,PAGADO,Verificado,04/08/2026
+#1354,#00451310,"Angel Villarroel","$2,380.00",+$35.70,PAGADO,Verificado,04/08/2026
+#1353,#00550563,"Angel Villarroel",$151.70,+$2.28,PAGADO,Verificado,04/08/2026
+#1351,#00451309,"Angel Villarroel",$124.00,+$1.86,PAGADO,Verificado,04/08/2026
+#1349,#00550584,"Amanda Noriega",$184.00,+$2.76,PAGADO,Verificado,04/08/2026
+#1346,#00550572,"Amanda Noriega",$75.00,+$1.13,PAGADO,Verificado,04/08/2026
+#1336,#00550568,"Antonio Carreño",$30.00,+$0.45,PAGADO,Verificado,04/08/2026
+#1394,#00550521,"Amanda Noriega",$320.00,+$4.80,PAGADO,Verificado,03/08/2026
+#1393,#00550532,"Amanda Noriega",$87.00,+$1.31,PAGADO,Verificado,03/08/2026
+#1392,#00443103,"Amanda Noriega",$81.00,+$1.22,PAGADO,Verificado,03/08/2026
+#1379,#00550585,"Josely M. Torres",$66.00,+$0.99,PAGADO,Verificado,03/08/2026
+#1378,#00550589,"Josely M. Torres",$269.00,+$4.04,PAGADO,Verificado,03/08/2026
+#1377,#00550528,"Amanda Noriega",$122.00,+$1.83,PAGADO,Verificado,03/08/2026
+#1333,#00550565,"Antonio Carreño",$885.00,+$13.28,PAGADO,Verificado,03/08/2026
+#1328,#00481113,"Antonio Carreño","$3,082.00",+$46.23,PAGADO,Verificado,03/08/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/07/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/07/2026
+Premio/Bono/Abono,N/A,"Sorgymar Garcia",$0.00,+$20.00,PAGADO,N/A,31/07/2026
+#1374,#00431768,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,31/07/2026
+#1373,#00550581,"Amanda Noriega",$59.00,+$0.89,PAGADO,Verificado,31/07/2026
+#1372,#00550582,"Amanda Noriega",$713.00,+$10.70,PAGADO,Verificado,31/07/2026
+#1371,#00431767,"Josely M. Torres",$79.00,+$1.19,PAGADO,Verificado,31/07/2026
+#1370,#00431766,"Josely M. Torres",$234.00,+$3.51,PAGADO,Verificado,31/07/2026
+#1369,#00431763,"Josely M. Torres",$54.00,+$0.81,PAGADO,Verificado,31/07/2026
+#1368,#00431765,"Amanda Noriega",$206.00,+$3.09,PAGADO,Verificado,31/07/2026
+#1366,#00550566,"Johanny Ramos",$74.00,+$1.11,PAGADO,Verificado,31/07/2026
+#1236,#001451288,"Amanda Noriega","$2,052.00",+$30.78,PAGADO,Incongruencia,31/07/2026
+#1347,#00550546,"Johanny Ramos",$771.00,+$11.57,PAGADO,Verificado,31/07/2026
+#1363,#00431762,"Amanda Noriega",$79.00,+$1.19,PAGADO,Verificado,31/07/2026
+#1329,#00550141,"Amanda Noriega",$73.00,+$1.10,PAGADO,Incongruencia,29/07/2026
+#1331,#00550545,"Johanny Ramos",$79.00,+$1.19,PAGADO,Incongruencia,29/07/2026
+#1348,#00550550,"Amanda Noriega",$650.00,+$9.75,PAGADO,Verificado,29/07/2026
+#1337,#00431748,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,29/07/2026
+#1316,#00550537,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,28/07/2026
+#1295,#00443099,"Amanda Noriega",$344.00,+$5.16,PAGADO,Verificado,28/07/2026
+#1287,#00451299,"Angel Villarroel",$65.50,+$0.98,PAGADO,Verificado,28/07/2026
+#1300,#00550512,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,28/07/2026
+#1282,#00451300,"Angel Villarroel",$187.00,+$2.81,PAGADO,Verificado,28/07/2026
+#1280,#00451294,"Angel Villarroel",$165.10,+$2.48,PAGADO,Verificado,28/07/2026
+#1277,#00550508,"Johanny Ramos",$41.00,+$0.62,PAGADO,Verificado,28/07/2026
+#1323,#00550527,"Amanda Noriega",$282.00,+$4.23,PAGADO,Verificado,28/07/2026
+#1270,#00451290,"Angel Villarroel",$84.00,+$1.26,PAGADO,Incongruencia,28/07/2026
+#1274,#00443089,"Angel Villarroel",$42.00,+$0.63,PAGADO,Verificado,28/07/2026
+#1264,#00451303,"Amanda Noriega","$1,164.00",+$17.46,PAGADO,Verificado,28/07/2026
+#1261,#00550517,"Johanny Ramos",$269.00,+$4.04,PAGADO,Verificado,28/07/2026
+#1243,#00550504,"Amanda Noriega",$344.00,+$5.16,PAGADO,Verificado,28/07/2026
+#1200,#00550429,"Johanny Ramos",$506.00,+$7.59,PAGADO,Verificado,28/07/2026
+#1330,#00431745,"Amanda Noriega",$11.00,+$0.17,PAGADO,Verificado,28/07/2026
+#1326,#00550529,"Josely M. Torres",$294.00,+$4.41,PAGADO,Verificado,28/07/2026
+#1325,#00501164,"Nicolas Hernandez",$637.00,+$9.56,PAGADO,Verificado,28/07/2026
+#1320,#00501165,"Nicolas Hernandez","$1,144.00",+$17.16,PAGADO,Verificado,28/07/2026
+#1286,#00443100,"Amanda Noriega",$254.00,+$3.81,PAGADO,Verificado,27/07/2026
+#1292,#00550507,"Angel Villarroel",$151.70,+$2.28,PAGADO,Verificado,27/07/2026
+#1293,#00550506,"Angel Villarroel",$40.15,+$0.60,PAGADO,Verificado,27/07/2026
+#1297,#00443093,"Johanny Ramos",$41.00,+$0.62,PAGADO,Verificado,27/07/2026
+#1306,#00451298,"Angel Villarroel",$188.90,+$2.83,PAGADO,Verificado,27/07/2026
+#1307,#00443094,"Angel Villarroel",$194.00,+$2.91,PAGADO,Verificado,27/07/2026
+#1310,#00443101,"Amanda Noriega",$10.00,+$0.15,PAGADO,Verificado,27/07/2026
+#1242,#01451283,"Carlos Carreno",$175.00,+$2.63,PAGADO,Incongruencia,27/07/2026
+#859,#00451305,"Nicolas Hernandez","$1,375.00",+$20.63,PAGADO,Verificado,27/07/2026
+#1298,#00431740,"Amanda Noriega",$36.00,+$0.54,PAGADO,Verificado,25/07/2026
+#1303,#00431738,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,25/07/2026
+#1302,#00451297,"Johanny Ramos",$57.00,+$0.86,PAGADO,Verificado,25/07/2026
+#1301,#00550510,"Josely M. Torres",$290.00,+$4.35,PAGADO,Verificado,25/07/2026
+#1299,#00431741,"Amanda Noriega",$331.00,+$4.97,PAGADO,Verificado,24/07/2026
+#1291,#00550498,"Amanda Noriega",$61.00,+$0.92,PAGADO,Verificado,24/07/2026
+#1289,#00451301,"Josely M. Torres",$569.70,+$8.55,PAGADO,Verificado,23/07/2026
+#1288,#00550505,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,23/07/2026
+#1271,#00451291,"Angel Villarroel",$150.00,+$2.25,PAGADO,Verificado,23/07/2026
+#1238,#00451288,"Amanda Noriega","$4,665.00",+$69.98,PAGADO,Incongruencia,23/07/2026
+#1226,#00550473,"Amanda Noriega",$115.00,+$1.73,PAGADO,Verificado,23/07/2026
+#1222,#00550466,"Johanny Ramos",$320.00,+$4.80,PAGADO,Verificado,23/07/2026
+#1215,#00451280,"Amanda Noriega",$584.00,+$8.76,PAGADO,Verificado,23/07/2026
+#1214,#00443081,"Amanda Noriega",$59.00,+$0.89,PAGADO,Verificado,23/07/2026
+#1250,#00550476,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,23/07/2026
+#1247,#00451283,"Angel Villarroel",$175.00,+$2.63,PAGADO,Verificado,23/07/2026
+#1249,#00443086,"Amanda Noriega",$320.00,+$4.80,PAGADO,Verificado,23/07/2026
+#1285,#00550494,"Johanny Ramos",$45.00,+$0.68,PAGADO,Verificado,23/07/2026
+#1284,#00550491,"Josely M. Torres",$169.00,+$2.54,PAGADO,Verificado,23/07/2026
+#1276,#00550485,"Johanny Ramos",$79.50,+$1.19,PAGADO,Verificado,23/07/2026
+#1275,#00550486,"Josely M. Torres",$278.00,+$4.17,PAGADO,Verificado,23/07/2026
+#1269,#00431732,"Johanny Ramos",$359.00,+$5.39,PAGADO,Verificado,22/07/2026
+#1258,#00431730,"Angel Villarroel",$245.00,+$3.68,PAGADO,Verificado,22/07/2026
+#1268,#00550483,"Josely M. Torres",$70.00,+$1.05,PAGADO,Verificado,22/07/2026
+#1255,#00550474,"Josely M. Torres",$54.00,+$0.81,PAGADO,Verificado,21/07/2026
+#1248,#00443082,"Josely M. Torres",$280.00,+$4.20,PAGADO,Verificado,21/07/2026
+#1245,#00431725,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,21/07/2026
+#1224,#00451279,"Nicolas Hernandez",$42.00,+$0.63,PAGADO,Verificado,21/07/2026
+#1213,#00550453,"Josely M. Torres","$7,014.00",+$105.21,PAGADO,Verificado,20/07/2026
+#1217,#00550447,"Johanny Ramos",$725.00,+$10.88,PAGADO,Verificado,20/07/2026
+#1049,#00501158,"Amanda Noriega",$121.00,+$1.82,PAGADO,Verificado,20/07/2026
+#1182,#00550418,"Amanda Noriega",$500.00,+$7.50,PAGADO,Verificado,20/07/2026
+#1191,#00550451,"Amanda Noriega",$54.00,+$0.81,PAGADO,Verificado,20/07/2026
+#1230,#00431721,"Josely M. Torres",$579.00,+$8.69,PAGADO,Verificado,20/07/2026
+#1199,#00550415,"Amanda Noriega",$278.00,+$4.17,PAGADO,Verificado,20/07/2026
+#1205,#00550417,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,20/07/2026
+#1206,#00443072,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,20/07/2026
+#1207,#00431711,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,20/07/2026
+#1209,#00550427,"Amanda Noriega",$281.00,+$4.22,PAGADO,Verificado,20/07/2026
+#1210,#00431715,"Johanny Ramos",$56.00,+$0.84,PAGADO,Verificado,20/07/2026
+#1218,#00431718,"Josely M. Torres",$235.00,+$3.53,PAGADO,Verificado,20/07/2026
+#1202,#00550423,"Nicolas Hernandez","$1,032.00",+$15.48,PAGADO,Verificado,17/07/2026
+#1161,#00550392,"Johanny Ramos",$948.00,+$14.22,PAGADO,Verificado,17/07/2026
+#1137,#00550368,"Amanda Noriega",$70.00,+$1.05,PAGADO,Verificado,17/07/2026
+#1153,#00550413,"Antonio Carreño","$1,356.00",+$20.34,PAGADO,Verificado,17/07/2026
+#1190,#00550414,"Amanda Noriega",$283.00,+$4.25,PAGADO,Verificado,17/07/2026
+#723,#00550401,"Josely M. Torres",$63.00,+$0.95,PAGADO,Verificado,16/07/2026
+#1174,#00550393,"Johanny Ramos",$25.00,+$0.38,PAGADO,Verificado,15/07/2026
+#1176,#00550396,"Johanny Ramos",$23.00,+$0.35,PAGADO,Verificado,15/07/2026
+#1170,#00550390,"Johanny Ramos",$565.00,+$8.48,PAGADO,Verificado,15/07/2026
+#1167,#00431704,"Amanda Noriega",$101.00,+$1.52,PAGADO,Verificado,15/07/2026
+#1166,#00550388,"Amanda Noriega",$55.00,+$0.83,PAGADO,Verificado,14/07/2026
+#1159,#00550374,"Johanny Ramos",$81.00,+$1.22,PAGADO,Verificado,14/07/2026
+#1061,#00431678,"Josely M. Torres",$92.00,+$1.38,PAGADO,Verificado,14/07/2026
+#1065,#00431677,"Johanny Ramos",$41.00,+$0.62,PAGADO,Verificado,14/07/2026
+#1067,#00431679,"Johanny Ramos",$376.00,+$5.64,PAGADO,Verificado,14/07/2026
+#1071,#00451271,"Johanny Ramos",$66.00,+$0.99,PAGADO,Verificado,14/07/2026
+#1075,#00550318,"Amanda Noriega",$30.00,+$0.45,PAGADO,Verificado,14/07/2026
+#1156,#00550372,"Amanda Noriega",$35.00,+$0.53,PAGADO,Verificado,14/07/2026
+#1060,#00431676,"Josely M. Torres",$109.00,+$1.64,PAGADO,Verificado,14/07/2026
+#1059,#00431673,"Josely M. Torres",$64.00,+$0.96,PAGADO,Verificado,14/07/2026
+#1058,#00431661,"Amanda Noriega",$187.00,+$2.81,PAGADO,Verificado,14/07/2026
+#978,#00431616,"Amanda Noriega",$317.00,+$4.76,PAGADO,Verificado,14/07/2026
+#1151,#00550367,"Josely M. Torres",$94.00,+$1.41,PAGADO,Verificado,14/07/2026
+#1150,#00550363,"Amanda Noriega",$119.00,+$1.79,PAGADO,Verificado,13/07/2026
+#1149,#00550371,"Amanda Noriega",$269.00,+$4.04,PAGADO,Verificado,13/07/2026
+#1148,#00550364,"Josely M. Torres",$143.00,+$2.15,PAGADO,Verificado,13/07/2026
+#1143,#00550369,"Johanny Ramos",$278.00,+$4.17,PAGADO,Verificado,13/07/2026
+#972,#00431635,"Josely M. Torres",$275.00,+$4.13,PAGADO,Verificado,13/07/2026
+#1136,#00431703,"Josely M. Torres",$90.00,+$1.35,PAGADO,Verificado,13/07/2026
+#1122,#00550356,"Josely M. Torres","$1,644.00",+$24.66,PAGADO,Verificado,11/07/2026
+#1123,#00501157,"Amanda Noriega",$245.00,+$3.68,PAGADO,Verificado,11/07/2026
+#1131,#00500360,"Amanda Noriega",$234.00,+$3.51,PAGADO,Incongruencia,11/07/2026
+#1115,#00440369,"Amanda Noriega","$1,055.00",+$15.83,PAGADO,Incongruencia,11/07/2026
+#1132,#00550354,"Amanda Noriega",$376.00,+$5.64,PAGADO,Verificado,11/07/2026
+#1133,#00550353,"Amanda Noriega",$10.00,+$0.15,PAGADO,Verificado,11/07/2026
+#1134,#00550359,"Amanda Noriega",$71.00,+$1.07,PAGADO,Verificado,11/07/2026
+#1121,#00431685,"Johanny Ramos",$199.00,+$2.99,PAGADO,Verificado,10/07/2026
+#1126,#00550340,"Amanda Noriega",$170.00,+$2.55,PAGADO,Verificado,10/07/2026
+#1127,#00550348,"Josely M. Torres",$73.00,+$1.10,PAGADO,Verificado,10/07/2026
+#1128,#00550349,"Johanny Ramos",$49.00,+$0.74,PAGADO,Verificado,10/07/2026
+#1108,#00550334,"Amanda Noriega",$76.00,+$1.14,PAGADO,Verificado,09/07/2026
+#1092,#00550329,"Johanny Ramos",$217.00,+$3.26,PAGADO,Verificado,09/07/2026
+#1109,#00550333,"Amanda Noriega",$620.00,+$9.30,PAGADO,Verificado,09/07/2026
+#1116,#00443070,"Amanda Noriega",$152.00,+$2.28,PAGADO,Verificado,09/07/2026
+#1118,#00550346,"Amanda Noriega",$24.00,+$0.36,PAGADO,Verificado,09/07/2026
+#1114,#00443067,"Nicolas Hernandez","$6,367.00",+$95.51,PAGADO,Incongruencia,08/07/2026
+#1117,#00431689,"Amanda Noriega",$235.00,+$3.53,PAGADO,Verificado,08/07/2026
+#1120,#00443060,"Johanny Ramos",$50.00,+$0.75,PAGADO,Verificado,08/07/2026
+#1082,#00431682,"Josely M. Torres",$951.00,+$14.27,PAGADO,Verificado,08/07/2026
+#1102,#00550328,"Amanda Noriega",$324.00,+$4.86,PAGADO,Verificado,08/07/2026
+#973,#00550307,"Nicolas Hernandez",$245.00,+$3.68,PAGADO,Verificado,08/07/2026
+#1068,#00550327,"Amanda Noriega",$368.00,+$5.52,PAGADO,Verificado,07/07/2026
+#1072,#00550322,"Amanda Noriega",$317.00,+$4.76,PAGADO,Verificado,07/07/2026
+#995,#00550326,"Amanda Noriega",$201.00,+$3.02,PAGADO,Verificado,07/07/2026
+#1087,#00550325,"Amanda Noriega",$170.00,+$2.55,PAGADO,Verificado,07/07/2026
+#1086,#00550315,"Amanda Noriega","$1,519.00",+$22.79,PAGADO,Verificado,07/07/2026
+#1045,#00431668,"Josely M. Torres",$764.00,+$11.46,PAGADO,Verificado,06/07/2026
+#1057,#00431675,"Amanda Noriega",$406.00,+$6.09,PAGADO,Verificado,06/07/2026
+#1021,#00431645,"Amanda Noriega",$576.00,+$8.64,PAGADO,Verificado,06/07/2026
+#1054,#04316720,"Amanda Noriega",$28.00,+$0.42,PAGADO,Incongruencia,03/07/2026
+#1027,#00481107,"Amanda Noriega","$3,733.00",+$56.00,PAGADO,Incongruencia,03/07/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,30/06/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,30/06/2026
+Premio/Bono/Abono,N/A,"Josely M. Torres",$0.00,+$20.00,PAGADO,N/A,30/06/2026
+#1053,#00431672,"Amanda Noriega",$570.00,+$8.55,PAGADO,Incongruencia,03/07/2026
+#1003,#00431630,"Josely M. Torres",$475.50,+$7.13,PAGADO,Verificado,03/07/2026
+#1007,#00431633,"Josely M. Torres",$471.50,+$7.07,PAGADO,Verificado,03/07/2026
+#1018,#00431634,"Josely M. Torres",$359.00,+$5.39,PAGADO,Verificado,03/07/2026
+#1023,#00431629,"Johanny Ramos",$237.75,+$3.57,PAGADO,Verificado,03/07/2026
+#1024,#00431636,"Johanny Ramos",$360.00,+$5.40,PAGADO,Verificado,03/07/2026
+#1028,#00431638,"Josely M. Torres",$260.00,+$3.90,PAGADO,Verificado,03/07/2026
+#1029,#00431637,"Amanda Noriega",$126.00,+$1.89,PAGADO,Verificado,03/07/2026
+#1031,#00431640,"Johanny Ramos",$68.00,+$1.02,PAGADO,Verificado,03/07/2026
+#1034,#00431649,"Amanda Noriega",$30.00,+$0.45,PAGADO,Verificado,03/07/2026
+#1046,#00431657,"Amanda Noriega",$233.00,+$3.50,PAGADO,Verificado,03/07/2026
+#1048,#00431660,"Amanda Noriega",$207.00,+$3.11,PAGADO,Verificado,03/07/2026
+#1036,#00431663,"Amanda Noriega",$141.00,+$2.12,PAGADO,Verificado,02/07/2026
+#1035,#00431662,"Amanda Noriega",$287.00,+$4.31,PAGADO,Verificado,02/07/2026
+#1014,#00431644,"Amanda Noriega",$49.00,+$0.74,PAGADO,Verificado,01/07/2026
+#1001,#00550314,"Josely M. Torres",$211.00,+$3.17,PAGADO,Verificado,01/07/2026
+#1019,#00431643,"Amanda Noriega",$143.00,+$2.15,PAGADO,Verificado,01/07/2026
+#998,#00431627,"Josely M. Torres",$88.00,+$1.32,PAGADO,Verificado,01/07/2026
+#1002,#00451268,"Josely M. Torres","$1,296.00",+$19.44,PAGADO,Verificado,01/07/2026
+#987,#00431625,"Amanda Noriega",$77.00,+$1.16,PAGADO,Verificado,24/06/2026
+#985,#00431620,"Josely M. Torres",$402.00,+$6.03,PAGADO,Verificado,24/06/2026
+#986,#00431623,"Josely M. Torres",$275.00,+$4.13,PAGADO,Verificado,24/06/2026
+#977,#00550309,"Nicolas Hernandez",$140.00,+$2.10,PAGADO,Verificado,23/06/2026
+#962,#00550313,"Amanda Noriega",$82.00,+$1.23,PAGADO,Verificado,23/06/2026
+#963,#00550310,"Johanny Ramos",$64.00,+$0.96,PAGADO,Verificado,23/06/2026
+#974,#00550306,"Amanda Noriega",$228.00,+$3.42,PAGADO,Verificado,23/06/2026
+#980,#00431619,"Amanda Noriega",$230.00,+$3.45,PAGADO,Verificado,23/06/2026
+#940,#00550298,"Johanny Ramos",$50.00,+$0.75,PAGADO,Verificado,23/06/2026
+#941,#00550290,"Amanda Noriega",$143.00,+$2.15,PAGADO,Verificado,20/06/2026
+#927,#00550281,"Johanny Ramos",$217.00,+$3.26,PAGADO,Verificado,20/06/2026
+#932,#00550294,"Amanda Noriega",$249.00,+$3.74,PAGADO,Verificado,20/06/2026
+#947,#00443057,"Carlos Carreno",$366.00,+$5.49,PAGADO,Verificado,20/06/2026
+#951,#00431609,"Josely M. Torres",$235.00,+$3.53,PAGADO,Verificado,20/06/2026
+#948,#00550296,"Amanda Noriega",$143.00,+$2.15,PAGADO,Verificado,19/06/2026
+#944,#00550291,"Johanny Ramos",$384.00,+$5.76,PAGADO,Verificado,19/06/2026
+#938,#00550285,"Amanda Noriega",$47.00,+$0.71,PAGADO,Verificado,18/06/2026
+#868,#00550277,"Josely M. Torres",$178.00,+$2.67,PAGADO,Verificado,18/06/2026
+#942,#00550282,"Johanny Ramos",$95.00,+$1.43,PAGADO,Verificado,18/06/2026
+#937,#00550276,"Amanda Noriega",$126.00,+$1.89,PAGADO,Verificado,18/06/2026
+#866,#00501140,"José Carreño",$339.00,+$5.09,PAGADO,Verificado,17/06/2026
+#919,#00443054,"Angel Villarroel",$82.50,+$1.24,PAGADO,Verificado,17/06/2026
+#903,#00550266,"Johanny Ramos","$1,257.00",+$18.86,PAGADO,Verificado,17/06/2026
+#916,#00550274,"Amanda Noriega","$1,230.00",+$18.45,PAGADO,Verificado,17/06/2026
+#918,#00550267,"Carlos Carreno","$4,661.00",+$69.92,PAGADO,Verificado,17/06/2026
+#924,#00550270,"Johanny Ramos",$208.26,+$3.12,PAGADO,Verificado,17/06/2026
+#906,#00550261,"Amanda Noriega",$317.00,+$4.76,PAGADO,Verificado,17/06/2026
+#922,#00501137,"Nicolas Hernandez",$143.00,+$2.15,PAGADO,Verificado,17/06/2026
+#925,#00550262,"Carlos Carreno",$560.00,+$8.40,PAGADO,Verificado,17/06/2026
+#926,#00550263,"Amanda Noriega",$92.00,+$1.38,PAGADO,Verificado,17/06/2026
+#923,#00443055,"Amanda Noriega",$143.00,+$2.15,PAGADO,Verificado,17/06/2026
+#914,#00431601,"Josely M. Torres",$41.00,+$0.62,PAGADO,Verificado,17/06/2026
+#893,#00431602,"Josely M. Torres",$153.00,+$2.30,PAGADO,Verificado,17/06/2026
+#876,#00550236,"Amanda Noriega",$93.00,+$1.40,PAGADO,Verificado,16/06/2026
+#899,#00451266,"Angel Villarroel",$225.00,+$3.38,PAGADO,Verificado,16/06/2026
+#898,#00550248,"Amanda Noriega",$42.00,+$0.63,PAGADO,Verificado,15/06/2026
+#894,#00550245,"Josely M. Torres",$230.00,+$3.45,PAGADO,Verificado,15/06/2026
+#872,#00550231,"Amanda Noriega",$76.00,+$1.14,PAGADO,Verificado,15/06/2026
+#879,#00431597,"Amanda Noriega",$361.00,+$5.42,PAGADO,Verificado,15/06/2026
+#878,#00431596,"Amanda Noriega",$38.00,+$0.57,PAGADO,Verificado,13/06/2026
+#857,#00550232,"Nicolas Hernandez",$367.00,+$5.51,PAGADO,Verificado,12/06/2026
+#870,#00550229,"Josely M. Torres",$45.00,+$0.68,PAGADO,Verificado,12/06/2026
+#875,#00550230,"Amanda Noriega",$58.00,+$0.87,PAGADO,Verificado,12/06/2026
+#865,#00550206,"Nicolas Hernandez",$288.00,+$4.32,PAGADO,Verificado,12/06/2026
+#846,#00443052,"Amanda Noriega",$245.00,+$3.68,PAGADO,Verificado,12/06/2026
+#855,#00451263,"Angel Villarroel",$45.00,+$0.68,PAGADO,Verificado,11/06/2026
+#864,#00550227,"Angel Villarroel",$41.00,+$0.62,PAGADO,Verificado,11/06/2026
+#854,#00550223,"Angel Villarroel",$45.00,+$0.68,PAGADO,Verificado,11/06/2026
+#860,#00550225,"Angel Villarroel",$330.00,+$4.95,PAGADO,Verificado,11/06/2026
+#852,#00443053,"Amanda Noriega",$42.00,+$0.63,ANULADO,Incongruencia,10/06/2026
+#849,#00443048,"Josely M. Torres",$398.00,+$5.97,PAGADO,Verificado,10/06/2026
+#839,#00443049,"Amanda Noriega",$70.00,+$1.05,PAGADO,Verificado,10/06/2026
+#841,#00055021,"Amanda Noriega","$5,382.00",+$80.73,PAGADO,Verificado,10/06/2026
+#848,#00431590,"Josely M. Torres",$242.00,+$3.63,PAGADO,Verificado,10/06/2026
+#829,#00550191,"Amanda Noriega",$94.00,+$1.41,PAGADO,Verificado,09/06/2026
+#837,#00550207,"Amanda Noriega",$228.00,+$3.42,PAGADO,Verificado,09/06/2026
+#840,#00550208,"Josely M. Torres",$317.00,+$4.76,PAGADO,Verificado,09/06/2026
+#835,#00550202,"Amanda Noriega",$201.00,+$3.02,PAGADO,Verificado,09/06/2026
+#827,#00443044,"Amanda Noriega",$94.00,+$1.41,PAGADO,Verificado,09/06/2026
+#833,#00550209,"Amanda Noriega",$143.00,+$2.15,PAGADO,Verificado,09/06/2026
+#815,#00550182,"Josely M. Torres",$114.00,+$1.71,PAGADO,Verificado,08/06/2026
+#830,#00550192,"Amanda Noriega",$339.00,+$5.09,PAGADO,Verificado,08/06/2026
+#800,#00431574,"Josely M. Torres",$158.00,+$2.37,PAGADO,Verificado,08/06/2026
+#776,#00451260,"Angel Villarroel",$123.00,+$1.85,PAGADO,Verificado,06/06/2026
+#813,#00550189,"Amanda Noriega",$490.00,+$7.35,PAGADO,Verificado,06/06/2026
+#817,#00550190,"Amanda Noriega","$1,025.00",+$15.38,ANULADO,Incongruencia,06/06/2026
+#819,#00443041,"Angel Villarroel",$201.84,+$3.03,PAGADO,Verificado,06/06/2026
+#818,#00443039,"Amanda Noriega",$376.00,+$5.64,PAGADO,Verificado,05/06/2026
+#780,#00431570,"Josely M. Torres",$49.00,+$0.74,PAGADO,Verificado,05/06/2026
+#741,#00443036,"Angel Villarroel",$550.00,+$8.25,PAGADO,Verificado,05/06/2026
+#816,#00431580,"Amanda Noriega",$113.00,+$1.70,PAGADO,Verificado,04/06/2026
+#812,#00550162,"Antonio Carreño",$13.00,+$0.20,PAGADO,Verificado,04/06/2026
+#811,#00550166,"Antonio Carreño",$12.00,+$0.18,PAGADO,Verificado,04/06/2026
+#810,#00550170,"Antonio Carreño",$43.00,+$0.65,PAGADO,Verificado,04/06/2026
+#807,#00442991,"Amanda Noriega",$250.00,+$3.75,PAGADO,Verificado,04/06/2026
+#808,"#🧾 #00421181","Amanda Noriega",$376.00,+$5.64,PAGADO,Verificado,04/06/2026
+#804,#50-1135,"Antonio Carreño",$94.00,+$1.41,PAGADO,Verificado,04/06/2026
+#789,#00431571,"Josely M. Torres",$65.00,+$0.98,PAGADO,Verificado,04/06/2026
+#777,#00443025,"Angel Villarroel",$240.00,+$3.60,PAGADO,Verificado,03/06/2026
+#787,#00403022,"Carlos Carreno",$211.70,+$3.18,PAGADO,Verificado,03/06/2026
+#783,#00443016,"Josely M. Torres",$235.00,+$3.53,PAGADO,Verificado,02/06/2026
+#766,#00055174,"Amanda Noriega","$7,018.00",+$105.27,PAGADO,Verificado,02/06/2026
+#781,#00550175,"Nicolas Hernandez",$217.00,+$3.26,PAGADO,Verificado,02/06/2026
+#765,#00443009,"Amanda Noriega",$63.00,+$0.95,PAGADO,Verificado,02/06/2026
+#771,#00443014,"Amanda Noriega",$17.00,+$0.26,PAGADO,Verificado,01/06/2026
+#770,#00443015,"Amanda Noriega",$315.00,+$4.73,PAGADO,Verificado,01/06/2026
+#764,#00443011,"Amanda Noriega",$70.00,+$1.05,PAGADO,Verificado,01/06/2026
+#751,#00442997,"Nicolas Hernandez","$2,192.00",+$32.88,PAGADO,Verificado,01/06/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/05/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/05/2026
+Premio/Bono/Abono,N/A,"Sorgymar Garcia",$0.00,+$20.00,PAGADO,N/A,31/05/2026
+#759,#00431569,"Josely M. Torres",$675.00,+$10.13,PAGADO,Verificado,30/05/2026
+#758,#00963369,"Josely M. Torres",$317.00,+$4.76,PAGADO,Verificado,30/05/2026
+#747,#00369741,"Antonio Carreño",$50.00,+$0.75,PAGADO,Verificado,30/05/2026
+#726,#00451259,"Angel Villarroel",$90.00,+$1.35,PAGADO,Verificado,30/05/2026
+#756,#00442998,"Josely M. Torres",$198.00,+$2.97,PAGADO,Verificado,30/05/2026
+#757,#00431568,"Josely M. Torres",$156.00,+$2.34,PAGADO,Verificado,30/05/2026
+#755,#00431567,"Josely M. Torres",$230.00,+$3.45,PAGADO,Verificado,30/05/2026
+#754,#00431565,"Amanda Noriega",$35.00,+$0.53,PAGADO,Verificado,30/05/2026
+#752,#00431564,"Josely M. Torres",$68.00,+$1.02,PAGADO,Verificado,30/05/2026
+#740,#00501135,"Amanda Noriega",$92.00,+$1.38,PAGADO,Verificado,29/05/2026
+#711,#00451261,"Angel Villarroel","$4,500.00",+$67.50,PAGADO,Verificado,29/05/2026
+#742,#09988997,"Carlos Carreno",$13.00,+$0.20,PAGADO,Verificado,29/05/2026
+#732,#00550163,"Amanda Noriega",$12.00,+$0.18,PAGADO,Verificado,29/05/2026
+#682,#00550157,"Angel Villarroel",$43.00,+$0.65,PAGADO,Verificado,29/05/2026
+#734,#00550165,"Amanda Noriega",$38.00,+$0.57,PAGADO,Verificado,29/05/2026
+#681,#00550161,"Carlos Carreno",$749.00,+$11.24,PAGADO,Verificado,29/05/2026
+#693,#00442971,"Josely M. Torres",$61.00,+$0.92,PAGADO,Verificado,29/05/2026
+#722,#00550160,"Amanda Noriega",$200.00,+$3.00,PAGADO,Verificado,29/05/2026
+#728,#00550159,"Angel Villarroel",$143.00,+$2.15,PAGADO,Verificado,29/05/2026
+#727,#00550158,"Amanda Noriega",$84.00,+$1.26,PAGADO,Verificado,29/05/2026
+#737,#00431563,"Angel Villarroel",$27.00,+$0.41,PAGADO,Verificado,29/05/2026
+#735,#00442993,"Angel Villarroel",$280.00,+$4.20,PAGADO,Verificado,29/05/2026
+#663,#00550140,"Amanda Noriega",$192.00,+$2.88,PAGADO,Verificado,28/05/2026
+#720,#00550156,"Amanda Noriega",$66.00,+$0.99,PAGADO,Verificado,28/05/2026
+#710,#00550155,"Amanda Noriega",$242.00,+$3.63,PAGADO,Verificado,28/05/2026
+#712,#00431559,"Josely M. Torres",$324.00,+$4.86,PAGADO,Verificado,28/05/2026
+#718,#00990099,"Leonardo Guzman",$50.00,+$0.75,ANULADO,Incongruencia,28/05/2026
+#704,#00550144,"Josely M. Torres",$92.00,+$1.38,PAGADO,Verificado,27/05/2026
+#686,#00550139,"José Carreño",$859.00,+$12.89,PAGADO,Verificado,27/05/2026
+#669,#00550145,"Nicolas Hernandez",$146.00,+$2.19,PAGADO,Verificado,27/05/2026
+#705,#00550148,"Nicolas Hernandez",$720.00,+$10.80,PAGADO,Verificado,27/05/2026
+#703,#00550149,"Amanda Noriega",$84.00,+$1.26,PAGADO,Verificado,27/05/2026
+#684,#00550147,"Nicolas Hernandez","$2,512.00",+$37.68,PAGADO,Verificado,27/05/2026
+#707,#00550150,"Josely M. Torres",$180.00,+$2.70,PAGADO,Verificado,27/05/2026
+#709,#00431555,"Josely M. Torres",$113.00,+$1.70,PAGADO,Verificado,27/05/2026
+#702,#00431554,"Amanda Noriega",$317.00,+$4.76,PAGADO,Verificado,27/05/2026
+#701,#00431553,"Amanda Noriega",$235.00,+$3.53,PAGADO,Verificado,27/05/2026
+#685,#00550132,"Nicolas Hernandez",$39.00,+$0.59,PAGADO,Verificado,26/05/2026
+#679,#00550131,"Amanda Noriega",$124.00,+$1.86,PAGADO,Verificado,26/05/2026
+#327,#00550134,"José Carreño",$836.71,+$12.55,PAGADO,Verificado,26/05/2026
+#692,#00431552,"Amanda Noriega",$435.00,+$6.53,PAGADO,Verificado,26/05/2026
+#683,#00442987,"Nicolas Hernandez",$278.00,+$4.17,PAGADO,Verificado,26/05/2026
+#671,#00055123,"Amanda Noriega",$324.00,+$4.86,PAGADO,Verificado,26/05/2026
+#658,#00431547,"Josely M. Torres",$127.00,+$1.91,PAGADO,Verificado,26/05/2026
+#659,#00431548,"Josely M. Torres",$230.00,+$3.45,PAGADO,Verificado,26/05/2026
+#676,#00000031,"Antonio Carreño",$51.00,+$0.77,PAGADO,Verificado,25/05/2026
+#662,#00550121,"Amanda Noriega",$346.00,+$5.19,PAGADO,Verificado,25/05/2026
+#652,#00550124,"Amanda Noriega","$4,596.00",+$68.94,PAGADO,Verificado,25/05/2026
+#666,#00550120,"Angel Villarroel",$150.00,+$2.25,PAGADO,Verificado,25/05/2026
+#676,#00000033,"Antonio Carreño",$51.00,+$0.77,ANULADO,Incongruencia,25/05/2026
+#654,#00442986,"Angel Villarroel",$39.00,+$0.59,PAGADO,Verificado,25/05/2026
+#661,#00442954,"Amanda Noriega",$74.00,+$1.11,PAGADO,Verificado,25/05/2026
+#665,#00550117,"Angel Villarroel",$397.00,+$5.96,PAGADO,Verificado,25/05/2026
+#660,#00550115,"Josely M. Torres",$13.00,+$0.20,PAGADO,Verificado,25/05/2026
+#657,#00055114,"Nicolas Hernandez",$657.00,+$9.86,PAGADO,Verificado,23/05/2026
+#655,#00055113,"Nicolas Hernandez",$678.00,+$10.17,PAGADO,Verificado,23/05/2026
+#633,#00005594,"Yusmely Morales",$445.00,+$6.68,PAGADO,Verificado,23/05/2026
+#629,#00055101,"Carlos Carreno",$324.00,+$4.86,PAGADO,Verificado,23/05/2026
+#646,#00431544,"Josely M. Torres",$66.00,+$0.99,PAGADO,Verificado,22/05/2026
+#645,#00431542,"Amanda Noriega",$64.00,+$0.96,PAGADO,Verificado,22/05/2026
+#619,#00431538,"Josely M. Torres",$210.00,+$3.15,PAGADO,Verificado,22/05/2026
+#620,#00550098,"Yusmely Morales",$173.00,+$2.60,PAGADO,Verificado,21/05/2026
+#630,#00442982,"Angel Villarroel",$420.00,+$6.30,PAGADO,Verificado,21/05/2026
+#626,#00550097,"Nicolas Hernandez",$142.00,+$2.13,PAGADO,Verificado,21/05/2026
+#499,#00451258,"Angel Villarroel",$184.00,+$2.76,PAGADO,Verificado,21/05/2026
+#625,#00431539,"Angel Villarroel",$135.00,+$2.03,PAGADO,Verificado,21/05/2026
+#623,#00431540,"Josely M. Torres",$280.00,+$4.20,PAGADO,Verificado,21/05/2026
+#602,#00501133,"Angel Villarroel",$538.00,+$8.07,PAGADO,Verificado,21/05/2026
+#621,#00501134,"Angel Villarroel",$39.00,+$0.59,PAGADO,Verificado,21/05/2026
+#614,#00442981,"Carlos Carreno",$71.00,+$1.07,PAGADO,Verificado,20/05/2026
+#498,#00550090,"Angel Villarroel","$1,556.00",+$23.34,PAGADO,Verificado,20/05/2026
+#604,#00442979,"Josely M. Torres","$2,112.00",+$31.68,PAGADO,Verificado,20/05/2026
+#608,#00008899,"Antonio Carreño",$10.00,+$0.15,PAGADO,Verificado,20/05/2026
+#601,#00005588,"Angel Villarroel",$100.00,+$1.50,PAGADO,Verificado,19/05/2026
+#595,#00451256,"Angel Villarroel",$223.20,+$3.35,PAGADO,Verificado,19/05/2026
+#593,#00442974,"Angel Villarroel",$77.00,+$1.16,PAGADO,Verificado,19/05/2026
+#592,#00005587,"Angel Villarroel","$1,800.00",+$27.00,PAGADO,Verificado,19/05/2026
+#600,#00442976,"Josely M. Torres",$255.00,+$3.83,PAGADO,Verificado,19/05/2026
+#565,#00442956,"Angel Villarroel",$37.00,+$0.56,PAGADO,Verificado,19/05/2026
+#517,#00005563,"José Carreño",$85.00,+$1.28,PAGADO,Verificado,19/05/2026
+#590,#00442972,"José Carreño",$153.00,+$2.30,PAGADO,Verificado,19/05/2026
+#599,#00431532,"Josely M. Torres",$412.00,+$6.18,PAGADO,Verificado,19/05/2026
+#571,#00442969,"Amanda Noriega",$275.00,+$4.13,PAGADO,Verificado,18/05/2026
+#574,#00550085,"Josely M. Torres",$306.00,+$4.59,PAGADO,Verificado,18/05/2026
+#575,#00442963,"Josely M. Torres",$67.00,+$1.01,PAGADO,Verificado,18/05/2026
+#577,#00442967,"Josely M. Torres",$89.00,+$1.34,PAGADO,Verificado,18/05/2026
+#569,#00550079,"Yusmely Morales",$40.00,+$0.60,PAGADO,Verificado,18/05/2026
+#582,#00550086,"Amanda Noriega",$621.00,+$9.32,PAGADO,Verificado,18/05/2026
+#566,#00442961,"Yusmely Morales",$354.00,+$5.31,PAGADO,Verificado,18/05/2026
+#583,#00431529,"Josely M. Torres",$213.00,+$3.20,PAGADO,Verificado,18/05/2026
+#570,#00442960,"Amanda Noriega",$236.00,+$3.54,PAGADO,Verificado,16/05/2026
+#549,#00431522,"Josely M. Torres",$230.00,+$3.45,PAGADO,Verificado,16/05/2026
+#544,#00431521,"Josely M. Torres",$306.00,+$4.59,PAGADO,Verificado,16/05/2026
+#557,#00442958,"Amanda Noriega",$89.00,+$1.34,PAGADO,Verificado,15/05/2026
+#551,#00550072,"Amanda Noriega",$138.00,+$2.07,PAGADO,Verificado,15/05/2026
+#542,#00550082,"Amanda Noriega",$220.00,+$3.30,PAGADO,Verificado,15/05/2026
+#546,#00442955,"José Carreño",$416.00,+$6.24,PAGADO,Verificado,15/05/2026
+#568,#00550081,"Nicolas Hernandez",$134.00,+$2.01,PAGADO,Verificado,15/05/2026
+#558,#00550071,"Josely M. Torres",$109.00,+$1.64,PAGADO,Verificado,15/05/2026
+#564,#00431527,"Amanda Noriega",$89.00,+$1.34,PAGADO,Verificado,15/05/2026
+#553,#00431525,"Amanda Noriega",$275.00,+$4.13,PAGADO,Verificado,15/05/2026
+#552,#00431526,"Amanda Noriega",$67.00,+$1.01,PAGADO,Verificado,15/05/2026
+#563,#00431528,"Angel Villarroel",$40.00,+$0.60,PAGADO,Verificado,15/05/2026
+#555,#00005554,"Amanda Noriega",$363.00,+$5.45,PAGADO,Verificado,15/05/2026
+#535,#00005570,"Josely M. Torres",$372.00,+$5.58,PAGADO,Verificado,15/05/2026
+#545,#00550068,"Angel Villarroel",$404.00,+$6.06,PAGADO,Verificado,14/05/2026
+#518,#00550064,"Amanda Noriega",$37.00,+$0.56,PAGADO,Verificado,14/05/2026
+#550,#00550069,"Angel Villarroel",$178.00,+$2.67,PAGADO,Verificado,14/05/2026
+#526,#00442947,"Carlos Carreno",$240.00,+$3.60,PAGADO,Verificado,14/05/2026
+#527,#00442945,"Yusmely Morales",$77.00,+$1.16,PAGADO,Verificado,13/05/2026
+#514,#00005561,"Angel Villarroel",$808.00,+$12.12,PAGADO,Verificado,13/05/2026
+#525,#00005557,"Yusmely Morales",$315.00,+$4.73,PAGADO,Verificado,13/05/2026
+#519,#00005558,"Angel Villarroel",$34.87,+$0.52,PAGADO,Verificado,13/05/2026
+#511,#00005562,"José Carreño",$74.00,+$1.11,PAGADO,Verificado,13/05/2026
+#510,#00442944,"Amanda Noriega",$89.00,+$1.34,PAGADO,Verificado,13/05/2026
+#515,#00066669,"Antonio Carreño",$0.15,+$0.00,PAGADO,Verificado,13/05/2026
+#515,#00666666,"Antonio Carreño",$0.15,+$0.00,ANULADO,Incongruencia,13/05/2026
+#507,#00442940,"Amanda Noriega",$275.00,+$4.13,PAGADO,Verificado,12/05/2026
+#501,#00442935,"Amanda Noriega",$306.00,+$4.59,PAGADO,Verificado,12/05/2026
+#509,#00442941,"Amanda Noriega",$404.00,+$6.06,PAGADO,Verificado,12/05/2026
+#441,#00451254,"Angel Villarroel","$1,180.00",+$17.70,PAGADO,Verificado,11/05/2026
+#489,#00005549,"Nicolas Hernandez",$135.00,+$2.03,PAGADO,Verificado,09/05/2026
+#482,#04429161,"Amanda Noriega",$363.00,+$5.45,PAGADO,Verificado,09/05/2026
+#494,#00431519,"Josely M. Torres",$95.00,+$1.43,PAGADO,Verificado,09/05/2026
+#462,#00431511,"Josely M. Torres",$138.00,+$2.07,PAGADO,Verificado,09/05/2026
+#486,#00550046,"Nicolas Hernandez",$240.00,+$3.60,PAGADO,Verificado,08/05/2026
+#445,#00431518,"Josely M. Torres",$32.00,+$0.48,PAGADO,Verificado,08/05/2026
+#478,#00550033,"Nicolas Hernandez",$134.00,+$2.01,PAGADO,Verificado,08/05/2026
+#447,#00005515,"José Carreño",$379.00,+$5.69,PAGADO,Verificado,08/05/2026
+#477,#00550040,"Nicolas Hernandez",$306.00,+$4.59,PAGADO,Verificado,08/05/2026
+#465,#00431513,"Josely M. Torres",$97.00,+$1.46,PAGADO,Verificado,07/05/2026
+#463,#00550034,"Angel Villarroel",$386.40,+$5.80,PAGADO,Verificado,07/05/2026
+#459,#00550028,"Amanda Noriega",$33.00,+$0.50,PAGADO,Verificado,07/05/2026
+#455,#00550024,"Amanda Noriega",$115.00,+$1.73,PAGADO,Verificado,06/05/2026
+#464,#00550029,"Angel Villarroel",$62.10,+$0.93,PAGADO,Verificado,06/05/2026
+#450,#00550023,"Amanda Noriega",$782.00,+$11.73,PAGADO,Verificado,06/05/2026
+#448,#00550022,"Angel Villarroel","$1,652.00",+$24.78,PAGADO,Verificado,06/05/2026
+#443,#00550006,"Angel Villarroel",$407.00,+$6.11,PAGADO,Verificado,06/05/2026
+#444,#00442916,"Josely M. Torres",$363.00,+$5.45,PAGADO,Verificado,05/05/2026
+#446,#00442927,"Nicolas Hernandez","$1,055.50",+$15.83,PAGADO,Verificado,05/05/2026
+#425,#00442904,"José Carreño",$187.00,+$2.81,PAGADO,Verificado,04/05/2026
+#430,#00550003,"José Carreño",$220.00,+$3.30,PAGADO,Verificado,04/05/2026
+Premio/Bono/Abono,N/A,"José Carreño",$0.00,+$20.00,PAGADO,N/A,30/04/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,30/04/2026
+Premio/Bono/Abono,N/A,"José Carreño",$0.00,+$20.00,PAGADO,N/A,30/04/2026
+Premio/Bono/Abono,N/A,"Sorgymar Garcia",$0.00,+$20.00,PAGADO,N/A,30/04/2026
+Premio/Bono/Abono,N/A,"Amanda Noriega",$0.00,+$20.00,PAGADO,N/A,31/03/2026
+Premio/Bono/Abono,N/A,"José Carreño",$0.00,+$20.00,PAGADO,N/A,31/03/2026
+Premio/Bono/Abono,N/A,"Josely M. Torres",$0.00,+$20.00,PAGADO,N/A,31/03/2026
+#417,#00442901,"Angel Villarroel",$519.00,+$7.79,PAGADO,Verificado,29/04/2026
+#423,#00442898,"Angel Villarroel",$223.20,+$3.35,PAGADO,Verificado,29/04/2026
+#418,#00442895,"Josely M. Torres",$252.00,+$3.78,PAGADO,Verificado,29/04/2026
+#420,#00442894,"Josely M. Torres",$140.00,+$2.10,PAGADO,Verificado,29/04/2026
+#414,#00442885,"Josely M. Torres",$77.00,+$1.16,PAGADO,Verificado,28/04/2026
+#407,#00442881,"José Carreño","$2,340.00",+$35.10,PAGADO,Verificado,28/04/2026
+#415,#00442889,"Amanda Noriega",$89.00,+$1.34,PAGADO,Verificado,28/04/2026
+#416,#00442888,"Amanda Noriega",$61.00,+$0.92,PAGADO,Verificado,28/04/2026
+#384,#00442876,"José Carreño",$196.00,+$2.94,PAGADO,Verificado,28/04/2026
+#386,#00442859,"Angel Villarroel",$842.00,+$12.63,PAGADO,Verificado,28/04/2026
+#412,#00442877,"Amanda Noriega",$61.00,+$0.92,PAGADO,Verificado,27/04/2026
+#401,#00442883,"Angel Villarroel",$350.00,+$5.25,PAGADO,Verificado,27/04/2026
+#380,#00442852,"Angel Villarroel",$740.00,+$11.10,PAGADO,Verificado,27/04/2026
+#411,#00442862,"Amanda Noriega",$500.00,+$7.50,PAGADO,Verificado,27/04/2026
+#393,#00442864,"José Carreño","$6,950.00",+$104.25,PAGADO,Verificado,27/04/2026
+#397,#00481098,"Carlos Carreno",$625.00,+$9.38,PAGADO,Verificado,25/04/2026
+#355,#00987987,"Amanda Noriega",$200.00,+$3.00,PAGADO,Verificado,25/04/2026
+#406,#00999588,"Carlos Carreno",$1.00,+$0.02,PAGADO,Verificado,25/04/2026
+#404,#00442869,"Amanda Noriega",$194.00,+$2.91,PAGADO,Verificado,25/04/2026
+#398,#00431506,"Josely M. Torres",$276.00,+$4.14,PAGADO,Verificado,25/04/2026
+#391,#00442863,"Amanda Noriega",$220.00,+$3.30,PAGADO,Verificado,24/04/2026
+#395,#00442865,"Amanda Noriega",$89.00,+$1.34,PAGADO,Verificado,24/04/2026
+#399,#00000099,"Carlos Carreno",$0.50,+$0.01,ANULADO,Incongruencia,24/04/2026
+#370,#00442854,"José Carreño",$301.00,+$4.52,PAGADO,Verificado,24/04/2026
+#383,#00442855,"Angel Villarroel",$220.00,+$3.30,PAGADO,Verificado,24/04/2026
+#366,#00442843,"José Carreño",$371.00,+$5.57,PAGADO,Verificado,22/04/2026
+#359,#00431500,"Amanda Noriega",$122.00,+$1.83,PAGADO,Verificado,22/04/2026
+#373,#00442845,"Josely M. Torres",$515.00,+$7.73,PAGADO,Verificado,22/04/2026
+#361,#00442839,"José Carreño",$363.00,+$5.45,PAGADO,Verificado,21/04/2026
+#358,#00442838,"José Carreño",$122.00,+$1.83,PAGADO,Verificado,21/04/2026
+#365,#00442825,"Amanda Noriega",$108.00,+$1.62,PAGADO,Verificado,21/04/2026
+#356,#00431498,"Antonio Carreño",$105.00,+$1.58,PAGADO,Verificado,21/04/2026
+#354,#00442831,"Yusmely Morales","$1,472.00",+$22.08,PAGADO,Verificado,21/04/2026
+#345,#00442833,"Josely M. Torres","$1,350.00",+$20.25,PAGADO,Verificado,20/04/2026
+#351,#00442832,"Angel Villarroel","$1,520.00",+$22.80,PAGADO,Verificado,20/04/2026
+#342,#00442823,"José Carreño",$90.00,+$1.35,PAGADO,Verificado,20/04/2026
+#343,#00442814,"Josely M. Torres",$300.00,+$4.50,PAGADO,Verificado,20/04/2026
+#340,#00442819,"José Carreño",$522.00,+$7.83,PAGADO,Verificado,18/04/2026
+#344,#00442821,"José Carreño",$26.00,+$0.39,PAGADO,Verificado,18/04/2026
+#339,#00431496,"Josely M. Torres",$363.00,+$5.45,PAGADO,Verificado,18/04/2026
+#338,#00431494,"Josely M. Torres",$146.00,+$2.19,PAGADO,Verificado,18/04/2026
+#336,#00431493,"José Carreño",$220.00,+$3.30,PAGADO,Verificado,17/04/2026
+#312,#00451245,"Yusmely Morales","$9,600.39",+$144.01,PAGADO,Verificado,17/04/2026
+#329,#00442800,"José Carreño",$740.50,+$11.11,PAGADO,Verificado,17/04/2026
+#335,#00442791,"Yusmely Morales","$1,664.00",+$24.96,PAGADO,Verificado,17/04/2026
+#331,#00442803,"Amanda Noriega",$129.00,+$1.94,PAGADO,Verificado,17/04/2026
+#294,#00442797,"Carlos Carreno",$208.50,+$3.13,PAGADO,Verificado,17/04/2026
+#333,#00431488,"Josely M. Torres",$27.00,+$0.41,PAGADO,Verificado,17/04/2026
+#310,#00442792,"Amanda Noriega",$43.50,+$0.65,PAGADO,Verificado,17/04/2026
+#325,#00442786,"Yusmely Morales",$198.00,+$2.97,PAGADO,Verificado,17/04/2026
+#254,#00442780,"Josely M. Torres","$3,500.00",+$52.50,PAGADO,Verificado,16/04/2026
+#307,#00442768,"Amanda Noriega",$173.00,+$2.60,PAGADO,Verificado,15/04/2026
+#290,#00442767,"Carlos Carreno",$340.00,+$5.10,PAGADO,Verificado,14/04/2026
+#285,#00442770,"Josely M. Torres",$36.90,+$0.55,PAGADO,Verificado,14/04/2026
+#287,#00442771,"Josely M. Torres",$238.00,+$3.57,PAGADO,Verificado,14/04/2026
+#293,#00442763,"Angel Villarroel","$2,210.00",+$33.15,ANULADO,Incongruencia,14/04/2026
+#295,#00442766,"Angel Villarroel","$1,030.00",+$15.45,PAGADO,Verificado,14/04/2026
+#275,#00442757,"Angel Villarroel",$656.59,+$9.85,PAGADO,Verificado,14/04/2026
+#283,#00999991,"Josely M. Torres","$17,311.54",+$259.67,ANULADO,Incongruencia,14/04/2026
+#281,#00000323,"Carlos Carreno",$356.40,+$5.35,ANULADO,Incongruencia,13/04/2026
+#159,#00003211,"Carlos Carreno","$5,088.12",+$76.32,ANULADO,Incongruencia,13/04/2026
+#160,#00000321,"Carlos Carreno","$1,420.00",+$21.30,ANULADO,Incongruencia,13/04/2026
+#264,#00431481,"Josely M. Torres",$320.00,+$4.80,PAGADO,Verificado,13/04/2026
+#245,#00442725,"José Carreño",$253.50,+$3.80,PAGADO,Verificado,13/04/2026
+#238,#00442737,"Amanda Noriega",$73.80,+$1.11,PAGADO,Verificado,13/04/2026
+#248,#99442731,"José Carreño",$770.00,+$11.55,PAGADO,Verificado,13/04/2026
+#249,#00442731,"José Carreño",$420.00,+$6.30,PAGADO,Verificado,13/04/2026
+#258,#00442746,"Nicolas Hernandez",$770.00,+$11.55,PAGADO,Verificado,13/04/2026
+#247,#00442745,"José Carreño",$388.80,+$5.83,PAGADO,Verificado,13/04/2026
+#250,#00000123,"Antonio Carreño",$1.00,+$0.02,ANULADO,Incongruencia,08/04/2026
+#246,#00442740,"Amanda Noriega",$82.00,+$1.23,PAGADO,Verificado,08/04/2026
+#242,#00481092,"Antonio Carreño",$35.00,+$0.53,PAGADO,Verificado,07/04/2026
+#127,#00000045,"Carlos Carreno","$14,824.00",+$222.36,ANULADO,Incongruencia,07/04/2026
+#105,#00000004,"Antonio Carreño","$13,596.00",+$203.94,ANULADO,Incongruencia,07/04/2026
+#108,#00000003,"Antonio Carreño",$405.00,+$6.08,ANULADO,Incongruencia,07/04/2026
+#126,#00000001,"Carlos Carreno","$14,824.00",+$222.36,ANULADO,Incongruencia,07/04/2026
+#128,#00000000,"Carlos Carreno","$14,824.00",+$222.36,ANULADO,Incongruencia,07/04/2026
+#240,N/A,"Amanda Noriega","$2,471.99",+$37.08,PAGADO,N/A,07/04/2026
+#230,N/A,,$33.60,+$0.50,PAGADO,N/A,31/03/2026
+#228,N/A,,$60.34,+$0.91,PAGADO,N/A,31/03/2026
+#224,N/A,,$66.00,+$0.99,PAGADO,N/A,31/03/2026
+#227,N/A,,$102.00,+$1.53,PAGADO,N/A,31/03/2026
+#226,N/A,,$105.00,+$1.58,PAGADO,N/A,31/03/2026
+#225,N/A,,$43.02,+$0.65,PAGADO,N/A,31/03/2026
+#223,N/A,,$236.00,+$3.54,PAGADO,N/A,31/03/2026
+#222,N/A,,$88.50,+$1.33,PAGADO,N/A,31/03/2026
+#221,N/A,,$73.50,+$1.10,PAGADO,N/A,31/03/2026
+#220,N/A,,$855.00,+$12.83,PAGADO,N/A,31/03/2026
+#217,N/A,"Amanda Noriega",$73.50,+$1.10,PAGADO,N/A,31/03/2026
+#196,N/A,"Amanda Noriega",$250.00,+$3.75,PAGADO,N/A,25/03/2026
+#183,N/A,"Amanda Noriega",$50.00,+$0.75,PAGADO,N/A,20/03/2026
+#176,N/A,"Amanda Noriega",$54.00,+$0.81,PAGADO,N/A,20/03/2026
+#154,N/A,"Amanda Noriega",$186.00,+$2.79,PAGADO,N/A,14/03/2026
+#112,N/A,"Josely M. Torres",$54.00,+$0.81,PAGADO,N/A,14/03/2026
+#159,N/A,"Carlos Carreno","$5,088.12",+$76.32,PAGADO,N/A,14/03/2026
+#160,N/A,"Carlos Carreno","$1,420.00",+$21.30,PAGADO,N/A,14/03/2026
+#151,N/A,"Josely M. Torres",$84.00,+$1.26,PAGADO,N/A,12/03/2026
+#150,N/A,"Amanda Noriega",$135.00,+$2.03,PAGADO,N/A,12/03/2026
+#134,N/A,"Amanda Noriega",$54.00,+$0.81,PAGADO,N/A,12/03/2026
+#141,N/A,"Amanda Noriega",$15.00,+$0.23,PAGADO,N/A,12/03/2026
+#133,N/A,"Josely M. Torres",$388.80,+$5.83,PAGADO,N/A,10/03/2026
+#131,N/A,"Amanda Noriega",$50.00,+$0.75,PAGADO,N/A,10/03/2026
+#128,N/A,"Carlos Carreno","$14,824.00",+$222.36,PAGADO,N/A,09/03/2026
+#127,N/A,"Carlos Carreno","$14,824.00",+$222.36,PAGADO,N/A,09/03/2026
+#126,N/A,"Angel Villarroel","$7,412.00",+$111.18,PAGADO,N/A,09/03/2026
+#126,N/A,"Carlos Carreno","$7,412.00",+$111.18,PAGADO,N/A,09/03/2026
+#107,N/A,"Josely M. Torres",$238.00,+$3.57,PAGADO,N/A,05/03/2026
+#108,N/A,"Antonio Carreño",$405.00,+$6.08,PAGADO,N/A,05/03/2026
+#105,N/A,"Antonio Carreño","$13,596.00",+$203.94,PAGADO,N/A,05/03/2026
+#103,N/A,"Josely M. Torres",$28.00,+$0.42,PAGADO,N/A,04/03/2026
+#103,N/A,"José Carreño",$28.00,+$0.42,PAGADO,N/A,04/03/2026
+#102,N/A,"Josely M. Torres",$25.00,+$0.38,PAGADO,N/A,04/03/2026
+#102,N/A,"José Carreño",$25.00,+$0.38,PAGADO,N/A,04/03/2026
+#93,N/A,"Josely M. Torres","$2,261.00",+$33.92,PAGADO,N/A,04/03/2026
+#24,N/A,"José Carreño",$46.50,+$0.70,PAGADO,N/A,04/03/2026
+#24,N/A,"Antonio Carreño",$46.50,+$0.70,PAGADO,N/A,04/03/2026
+#94,N/A,"José Carreño",$155.00,+$2.33,PAGADO,N/A,04/03/2026
+#63,N/A,"Amanda Noriega",$459.00,+$6.89,PAGADO,N/A,04/03/2026
+#63,N/A,,$459.00,+$6.89,PAGADO,N/A,04/03/2026
+#48,N/A,"Antonio Carreño","$4,638.00",+$69.57,ANULADO,N/A,04/03/2026
+#50,N/A,"Antonio Carreño","$25,550.00",+$383.25,ANULADO,N/A,04/03/2026
+#93,N/A,"Josely M. Torres","$2,261.00",+$33.92,ANULADO,N/A,04/03/2026
+#64,N/A,"José Carreño","$6,009.00",+$90.14,PAGADO,N/A,04/03/2026
+#64,N/A,"Antonio Carreño","$6,009.00",+$90.14,PAGADO,N/A,04/03/2026
+#52,N/A,"Antonio Carreño",$692.00,+$10.38,PAGADO,N/A,03/03/2026
+#74,N/A,"Carlos Carreno",$47.00,+$0.71,ANULADO,N/A,03/03/2026
+#73,N/A,"Carlos Carreno",$93.00,+$1.40,ANULADO,N/A,03/03/2026
+#48,N/A,"Antonio Carreño","$4,638.00",+$69.57,PAGADO,N/A,28/02/2026
+#52,N/A,"Antonio Carreño",$692.00,+$10.38,PAGADO,N/A,28/02/2026
+#64,N/A,"Antonio Carreño","$12,018.00",+$180.27,PAGADO,N/A,27/02/2026
+#66,N/A,"José Carreño",$849.00,+$12.74,PAGADO,N/A,27/02/2026
+#65,N/A,"Antonio Carreño","$12,018.00",+$180.27,PAGADO,N/A,27/02/2026
+#63,N/A,,$918.00,+$13.77,PAGADO,N/A,25/02/2026

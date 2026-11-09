@@ -1,0 +1,13 @@
+parar la instancia :
+
+taskkill /F /IM python.exe - en nueva ventana
+
+ejecucion
+python -m streamlit run src/dashboard/main.py
+
+
+Ejecutar el creador de tablas de sql
+python -m src.crear_tablas
+
+
+python -m src.main

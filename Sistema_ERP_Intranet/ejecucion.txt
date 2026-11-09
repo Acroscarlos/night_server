@@ -1,0 +1,19 @@
+taskkill /F /IM python.exe 
+
+python -m streamlit run src/dashboard/main.py
+
+
+
+Para correrlo cada 5 minutos, el comando en tu terminal será:
+python src/main.py --fast
+
+Para correrlo a las 3:00 AM, el comando será:
+python src/main.py --nightly
+
+
+
+
+
+Reinicio limpio del dashboard: ""sudo systemctl restart erp_v8""
+
+PAra sobreescribir en caliente: ""nano /home/night/Sistema_ERP_Intranet/src/dashboard/main.py"""

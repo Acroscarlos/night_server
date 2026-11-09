@@ -1,0 +1,81 @@
+🗺️ ROADMAP MAESTRO: NOC Wallboard V8
+🔴 FASE 1: El Motor Agregador (Backend / Daemon)
+Objetivo: Recolectar datos pesados en segundo plano sin ralentizar el ERP y escribir la "fuente de la verdad" atómicamente.
+
+Script: src/noc/data_aggregator.py (Se ejecutará anexado a tu pipeline rápido o vía Cron cada 5 minutos).
+
+Recolección de los 7 Requerimientos:
+
+Status Servidores: Pings y HTTP GET ligeros (ERP y WooCommerce).
+
+Status ML: Lectura de metadatos (fecha de modificación os.path.getmtime) del último reporte_final.csv.
+
+Tasa Dólar: Reutilizar tu función _fetch_dolar_api() con su respectivo Fallback.
+
+Top 8 Vendedores: Petición limpia al endpoint de reportes de WooCommerce.
+
+Top 10 Críticos: Query O(1) en SQLite filtrando stock_actual < reorder_point.
+
+Top 10 ON FIRE: Agrupación en SQLite de los InventoryMovement de los últimos 90 días (Salidas/Ventas).
+
+Top 10 Clientes: Uso de tu clase LoyverseAPI.
+
+Escritura Atómica: Empaquetar todo en un diccionario y usar SafeJSONEncoder para escribir en output/tv_state.tmp, reemplazándolo instantáneamente a tv_state.json para evitar colisiones de lectura/escritura.
+
+🔴 FASE 2: La Pantalla de Cristal (Frontend Streamlit)
+Objetivo: Una interfaz de alto contraste, modo oscuro, que se auto-actualice sin consumir la memoria RAM del servidor a largo plazo.
+
+Script: src/dashboard/views/noc_wallboard.py (Una vista aislada de tus módulos transaccionales).
+
+Manejo de Memoria (El Truco Maestro):
+
+Inyectar <meta http-equiv="refresh" content="43200"> al inicio. Esto forzará una recarga completa y dura del navegador cada 12 horas, purgando cualquier residuo en la RAM de Chrome.
+
+Manejo de Reactividad (@st.fragment):
+
+Envolver toda la lógica de lectura del JSON y renderizado de tarjetas/tablas bajo el decorador @st.fragment(run_every="10s"). Streamlit solo re-dibujará ese fragmento sin tocar el resto del DOM.
+
+Diseño Visual:
+
+Uso de st.metric para el Dólar y los status de Servidor/ML.
+
+Uso de st.dataframe con style.highlight_max para las tablas. Así, si un equipo de alta rotación como un multímetro UT216C o una cámara HIKMICRO cae en stock crítico, la fila se pintará de rojo automáticamente alertando a todo el equipo.
+
+🔴 FASE 3: Despliegue de Infraestructura (Kiosk Mode)
+Objetivo: Que el televisor encienda y muestre el panel sin intervención humana.
+
+Configuración del Mini PC (Ubuntu):
+
+Crearemos un script de inicio (.desktop o un servicio de systemd) que se ejecute automáticamente al arrancar el sistema operativo.
+
+Comando de Lanzamiento:
+
+Ejecutar Chrome apuntando a tu URL local con las banderas de Kiosko para ocultar pestañas, barras de búsqueda y notificaciones:
+google-chrome --kiosk --incognito http://localhost:8501/NOC_Wallboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quiero en la pantalla se muestre:
+
+El status de los servidores si estan online u offline - - Origen: CHECK periodico IP - 
+Ultima ejecucion del modelo nocturno y rapido con status de la ejecucion. 
+La tasa del dolar paralelo/official en porcentaje - Origen: ERP Intranet o solicitar mediante la api- muestreo 3 veces por dia 10am -2pm - 6pm (agrega las tasas de cambio como indicadores)
+Los mejores vendedores por numero de ventas y por volume de dinero. Un ranking de 8 para cada clasificacion. - Origen Del sistema de nuyestra WEB.
+Los 10 items mas criticos que se Deben pedir inmediatamente. - Origen: ERP Intranet
+Los 10 items mas vendidos en los ultimos 3 meses (ON FIRE)  - Origen: ERP Intranet o Loyverse
+Top 10 clientes de los ultimos 3 meses - Origen: Loyverse
+
+Requiero que el cuaderno realice un propuesta de como podriamos desarrollar esto con las mejores practicas de seguridad y modularidad. Adicionalmente quiero que me realices una propuesta para ver cuales son los dos enfoques que proponen cada uno y hacer una verificacion cruzada.

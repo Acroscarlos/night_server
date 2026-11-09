@@ -1,0 +1,6 @@
+pip install pandas sqlalchemy fpdf werkzeug PyJWT streamlit-cookies-controller watchdog streamlit prophet xgboost scikit-learn statsmodels plotly xlsxwriter woocommerce pydantic
+
+
+pip install streamlit
+pip install prophet xgboost scikit-learn statsmodels
+pip install plotly xlsxwriter woocommerce pydantic
